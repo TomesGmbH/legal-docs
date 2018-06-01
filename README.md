@@ -14,8 +14,8 @@ All available documents have to be written in Markdown. This has several advanta
 ## Available documents and languages
 
 ### Deutsch
-* [Allgemeine Geschäftsbedingungen (AGB) zur App Idana](de/AGB.md)
-* Datenschutzerklärung zur App Idana
+* [Allgemeine Geschäftsbedingungen (AGB) zur App Idana](de/app/AGB.md)
+* [Datenschutzerklärung zur App Idana](de/app/Datenschutz.md)
 
 ### Englisch
 * General Terms and Conditions for the Idana app
