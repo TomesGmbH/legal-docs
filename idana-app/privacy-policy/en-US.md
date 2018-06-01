@@ -1,5 +1,4 @@
 ## Data protection policy for the Idana app (mobile and desktop)
-
 Date: 2018-05-07
 
 ### 1\. Information about the collection of personal data and provider identification
