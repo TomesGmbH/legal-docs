@@ -18,5 +18,5 @@ All available documents have to be written in Markdown. This has several advanta
 * [Datenschutzerklärung zur App Idana](de/app/Datenschutz.md)
 
 ### Englisch
-* General Terms and Conditions for the Idana app
+* [General Terms and Conditions for the Idana app](en/app/GTC.md)
 * Data protection policy for the Idana app
