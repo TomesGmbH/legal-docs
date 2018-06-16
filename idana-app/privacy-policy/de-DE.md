@@ -5,7 +5,7 @@ Stand: 07.05.2018
 
 Im Folgenden informieren wir über die Erhebung personenbezogener Daten bei Nutzung dieser Applikation. Personenbezogene Daten sind alle Daten, die auf Sie persönlich beziehbar sind, also z. B. Name, Adresse, E-Mail-Adressen, Nutzerverhalten.
 
-Diensteanbieter gem. § 13 Telemediengesetz (TMG) und verantwortliche Stelle gem. § 3 Abs. 7 Bundesdatenschutzgesetz (BDSG) und Datenschutzgrundverordnung (DSGVO) ist die Tomes GmbH, Engesserstr. 4a, 79108 Freiburg im Breisgau, Deutschland, Tel. 0761 6006784-0, E-Mail: kontakt@idana.one. Impressum: https://idana.one/impressum.
+Diensteanbieter gem. § 13 Telemediengesetz (TMG) und verantwortliche Stelle gem. § 3 Abs. 7 Bundesdatenschutzgesetz (BDSG) und Datenschutzgrundverordnung (DSGVO) ist die Tomes GmbH, Engesserstr. 4a, 79108 Freiburg im Breisgau, Deutschland, Tel. 0761 6006784-0, E-Mail: kontakt@idana.one. Impressum: idana.one/impressum.
 
 ### 2\. Datensicherheit
 

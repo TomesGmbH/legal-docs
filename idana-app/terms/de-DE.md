@@ -129,4 +129,4 @@ Auf das gesamte Vertragsverhältnis zwischen der Tomes GmbH und seinem gewerblic
 
 Für die vertraglichen Beziehungen der Vertragspartner gilt deutsches Recht. Gerichtsstand ist Freiburg im Breisgau.
 
-Die AGB finden sich auch online auf [www.idana.one/agb](https://www.idana.one/agb)
+Die AGB finden sich auch online auf idana.one/agb

@@ -5,7 +5,7 @@ Date: 2018-05-07
 
 Below we provide information about the collection of personal data when using this application. Personal data are all data that are personally identifiable to you, e.g. name, address, e-mail addresses, user behavior.
 
-Service provider according to § 13 Telemediengesetz (TMG) and responsible body according to § 3 Abs. 7 Bundesdatenschutzgesetz (BDSG) and General Data Protection Regulation (GDPR) is Tomes GmbH, Engesserstr. 4a, 79108 Freiburg im Breisgau, Germany, Tel. 0761 6006784-0, E-Mail: contact@idana.one. Imprint: https://idana.one/impressum.
+Service provider according to § 13 Telemediengesetz (TMG) and responsible body according to § 3 Abs. 7 Bundesdatenschutzgesetz (BDSG) and General Data Protection Regulation (GDPR) is Tomes GmbH, Engesserstr. 4a, 79108 Freiburg im Breisgau, Germany, Tel. 0761 6006784-0, E-Mail: contact@idana.one. Imprint: idana.one/impressum.
 
 ### 2\. Data security
 

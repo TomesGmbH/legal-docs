@@ -130,4 +130,4 @@ The entire contractual relationship between Tomes GmbH and its commercial contra
 
 German law shall apply to the contractual relationships of the contracting parties. Place of jurisdiction is Freiburg im Breisgau.
 
-The GTC can also be found online at [www.idana.one/en/gtc](https://www.idana.one/en/gtc)
+The GTC can also be found online at idana.one/en/gtc
