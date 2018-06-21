@@ -19,7 +19,7 @@ The contract comes into effect with the use of the Idana software.
 
 To use Idana, the customer must perform the following activities:
 
-Download and install the application for doctors and employees (“desktop app”, which can be downloaded from the homepage www.idana.one, on a PC running Windows 7 or later or on a Mac running Mac OS X 10.9 or later.
+Download and install the application for doctors and employees (“desktop app”, which can be downloaded from the homepage idana.one, on a PC running Windows 7 or later or on a Mac running Mac OS X 10.9 or later.
 
 Obtain and install the application for patients (“Mobile App”) on an Android tablet with version 5.0 or later via the Google Play Store. Alternatively, patients can install the app on their personal devices. Devices for which the operating system has been changed (Rooting) are not supported.
 
