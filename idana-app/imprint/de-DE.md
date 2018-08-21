@@ -23,9 +23,7 @@ Umsatzsteuer-Identifikationsnummer: DE309156261
 
 ### Verantwortliche Person für den Inhalt gemäß §55 Abs. 2 RStV
 
-Dr. Lucas Spohn  
-Flurstr. 2a  
-79114 Freiburg
+Dr. Lucas Spohn
 
 ### Hinweis auf EU-Streitschlichtung
 

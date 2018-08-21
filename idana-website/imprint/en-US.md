@@ -1,4 +1,11 @@
-## Details according to § 5 TMG:
+---
+post_title: 'Imprint'
+layout: post_type_probably_post
+published: true
+---  
+#Imprint
+
+## Tomes GmbH
 
 Tomes GmbH  
 Engesserstr. 4a  
@@ -20,11 +27,9 @@ Register court: Local court Freiburg
 Register number: HRB 715456
 
 VAT identification number: DE309156261  
-### Responsible person for the content according to §55 Abs. 2 RStV
+### Responsible person for the content
 
-Dr. Lucas Spohn  
-Flurstr. 2a  
-79114 Freiburg, Germany
+Dr. Lucas Spohn
 
 ### Note to EU dispute resolution
 

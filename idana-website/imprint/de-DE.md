@@ -2,7 +2,7 @@
 post_title: 'Impressum'
 layout: post_type_probably_post
 published: true
----
+---  
 #Impressum
 
 ## Angaben gemäß § 5 TMG:
@@ -31,8 +31,6 @@ Umsatzsteuer-Identifikationsnummer: DE309156261
 ### Verantwortliche Person für den Inhalt gemäß §55 Abs. 2 RStV
 
 Dr. Lucas Spohn  
-Flurstr. 2a  
-79114 Freiburg
 
 ### Hinweis auf EU-Streitschlichtung
 
