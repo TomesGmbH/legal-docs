@@ -1,6 +1,6 @@
 ---
 ID: 48
-post_title: Impressum
+post_title: Impressumalt
 author: Jerome Meinke
 post_excerpt: ""
 layout: page
