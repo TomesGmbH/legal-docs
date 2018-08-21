@@ -1,5 +1,9 @@
 ## Datenschutzerklärung zur App Idana (Mobile und Desktop)
-Stand: 07.05.2018
+Stand: 22.08.2018
+
+### Zusammenfassung
+
+
 
 ### 1\. Information über die Erhebung personenbezogener Daten und Anbieterkennzeichnung
 
