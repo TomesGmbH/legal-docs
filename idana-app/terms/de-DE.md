@@ -1,13 +1,13 @@
-## Allgemeine Geschäftsbedingungen zur Applikation Idana (Desktop-App und Patienten-App)
+## Allgemeine Geschäftsbedingungen zur Applikation Idana (Desktop-App, Patienten-App)
 Stand: 22.08.2018
 
 ### Vertragspartner
 
-Vertragspartner sind die Tomes GmbH, Engesserstr. 4a, 79108 Freiburg i. Br. und der Kunde, der Unternehmer im Sinne von §14 BGB ist.
+Vertragspartner sind die Tomes GmbH, Engesserstr. 4a, 79108 Freiburg i. Br. als Anbieter und der Kunde, der Unternehmer im Sinne von §14 BGB ist.
 
 ### Vertragsgegenstand
 
-Diese Vertragsbedingungen gelten für die Nutzung der Software Idana der Tomes GmbH gemäß der aktuellen Produktbeschreibung als Software-as-a-Service („SaaS“). Die Software wird vom Anbieter zum Download bereitgestellt und nutzt von der Tomes GmbH als SaaS bereitgestellte Server- und Systemkomponenten.
+Diese Vertragsbedingungen gelten für die Nutzung der Software Idana und der Website idana.app der Tomes GmbH gemäß der aktuellen Produktbeschreibung als Software-as-a-Service („SaaS“). Die Software wird vom Anbieter zum Download und als Website bereitgestellt und nutzt von der Tomes GmbH als SaaS bereitgestellte Server- und Systemkomponenten.
 
 Dem Kunden wird ermöglicht, die auf den Servern des Anbieters bzw. eines vom Anbieter beauftragten Dienstleisters gespeicherte und ablaufende Software über eine Internetverbindung während der Laufzeit dieses Vertrags für eigene Zwecke zu nutzen und seine Daten mit ihrer Hilfe zu speichern und zu verarbeiten.
 
@@ -21,7 +21,7 @@ Zur Nutzung von Idana muss der Kunde folgende Aktivitäten durchführen:
 
 1. Die Applikation für Behandelnde und Mitarbeiter (“Desktop-App”), welche über die Homepage idana.one beziehbar ist, auf einem PC mit Windows 7 oder neuer oder auf einem Mac mit Mac OS X 10.9 oder neuer herunterladen und installieren.
 
-2. Die Applikation für Patienten (“Patienten-App”) über die Website idana.app dem Patienten bereitstellen. Hierzu ist ein aktueller Webbrowser erforderlich. Wenn die Patienten-App über einen App-Store bereitgestellt wird, kann diese auch darüber installiert werden. Die Patienten-App läuft sowohl auf mobilen wie auch stationären Geräten. Dem Patienten kann ein Gerät (z.B. ein Tablet) zum Ausfüllen bereitgestellt werden oder er zur Nutzung seines eigenen Geräts aufgefordert werden. Der Patient kann die Patienten-App sowohl vor Ort als auch von daheim oder unterwegs nutzen.
+2. Dem Patienten die Applikation für Patienten (“Patienten-App”) über die Website idana.app bereitstellen. Hierzu ist ein aktueller Webbrowser erforderlich. Wenn die Patienten-App über einen App-Store bereitgestellt wird, kann diese auch darüber installiert werden. Die Patienten-App läuft sowohl auf mobilen wie auch stationären Geräten. Dem Patienten kann ein Gerät (z.B. ein Tablet) zum Ausfüllen bereitgestellt werden oder er zur Nutzung seines eigenen Geräts aufgefordert werden. Der Patient kann die Patienten-App sowohl vor Ort als auch von daheim oder unterwegs nutzen.
 
 3. Einen Benutzeraccount in der Desktop-App registrieren und sich damit in der Desktop-App einloggen. Die Authentifizierung erfolgt hierbei über eine Benutzerkennung (E-Mail) und ein Passwort (“Login-Passwort”) über den Dienstleister Auth0 Inc. Das Passwort kann jederzeit vom Kunden geändert werden, indem die “Passwort vergessen”-Funktion benutzt wird.
 
@@ -31,13 +31,13 @@ Zur Nutzung von Idana muss der Kunde folgende Aktivitäten durchführen:
 
 Idana ermöglicht dem Kunden die schriftliche Kommunikation mit Patienten und die Dokumentation der Anamnese, d.h. der Symptome, Krankheitsgeschichte und relevanter Hintergrundinformationen.
 
-Die Tomes GmbH stellt dem Kunden die Softwarelösung Idana zum Herunterladen über eine Internetverbindung (Desktop-App) bzw. als Website (Patienten-App) zur Verfügung.
+Die Tomes GmbH stellt dem Kunden die Softwarelösung Idana zum Herunterladen über eine Internetverbindung (Desktop-App) bzw. als Website (Patienten-App) zur Verfügung. Über die Desktop-App kann der Kunde die Fragebögen für Patienten konfigurieren und verwalten, die Ergebnisse betrachten und speichern. Die Patienten-App wird dem Kunden für seine Patienten bereitgestellt, damit diese die digitale Fragebögen ausfüllen können.
 
 Die Tomes GmbH betreibt die für den Betrieb von Idana notwendigen Server- und Systemkomponenten und stellt diese dem Kunden als Software-as-a-Service für die Dauer des Vertrags bereit.  Die Komponenten werden in einem technisch und organisatorisch abgesicherten, hochperformanten und nach ISO 27001 zertifizierten Rechenzentrum betrieben.
 
 Die Kommunikation der vom Kunden installierten Software und der von der Tomes GmbH bereitgestellten Server erfolgt ausschließlich über verschlüsselte Verbindungen via HTTPS.  Alle Daten werden im Rechenzentrum verschlüsselt gespeichert.
 
-Patientendaten werden vor der Übertragung in der Patienten-App mit dem öffentlichen Schlüssel des Nutzers verschlüsselt und erst beim Nutzer lokal in der Desktop-App wieder entschlüsselt. Über das Internet werden keine unverschlüsselten Patientendaten übertragen. Weder die Tomes GmbH noch Betreiber der Rechenzentren können Patientendaten einsehen.
+Die Antworten des Patienten werden vor Ihrer Übertragung in der Patienten-App mit dem öffentlichen Schlüssel des Kunden verschlüsselt und erst beim Kunden lokal in der Desktop-App wieder entschlüsselt. Über das Internet werden keine unverschlüsselten Patientendaten übertragen. Weder die Tomes GmbH noch Betreiber der Rechenzentren können verschlüsselte Patientendaten lesbar machen.
 
 Die Tomes GmbH führt keine Auftragsdatenverarbeitung für den Kunden durch, alle Patientendaten werden gemäß dem vom Kunden durchgeführten Aktionen lokal in den bereitgestellten Apps verarbeitet.
 
@@ -78,6 +78,8 @@ Der Kunde darf die Software Idana über den Rahmen dieses Vertrages hinaus Ander
 ### Kostenlose Testphase
 
 Jeder Kunde ist berechtigt, einmal die kostenlose Testphase zu aktivieren, welche vollen Zugriff auf die Funktionen von Idana gemäß der Leistungsbeschreibung für 30 Tage bietet. Nach der Testphase gilt der Account automatisch als gekündigt, solange keine kostenpflichtige Nutzungslizenz erworben wird.
+
+Dem Kunden ist es nicht gestattet, mehrere Benutzeraccounts erstellen, um die kostenlose Testphase mehrfach in Anspruch zu nehmen. Die Tomes GmbH behält sich das Recht vor, die Accounts bei einem Verstoß gegen diese Richtlinie zu deaktivieren und ggf. Schadensersatz geltend zu machen. Das Registrieren mehrerer Accounts und mehrfacher Aktivierung der Testphase durch einen Kunden ist nur dann zulässig, wenn diese von unterschiedlichen Personen genutzt werden, z.B. verschiedenen Abteilungen einer Klinik.
 
 ### Kostenpflichtige Vollversion
 
@@ -131,4 +133,4 @@ Auf das gesamte Vertragsverhältnis zwischen der Tomes GmbH und seinem gewerblic
 
 Für die vertraglichen Beziehungen der Vertragspartner gilt deutsches Recht. Gerichtsstand ist Freiburg im Breisgau.
 
-Die AGB finden sich auch online auf idana.one/agb
+Die AGB finden sich auch online auf [idana.one/agb](https://idana.one/agb)

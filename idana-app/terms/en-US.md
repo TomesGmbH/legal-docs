@@ -3,11 +3,11 @@ Date: 2018-08-22
 
 ### Contracting partner
 
-The contractual partners are Tomes GmbH, Engesserstr. 4a, 79108 Freiburg i. Br. and the customer, who is an entrepreneur within the meaning of §14 BGB (German Civil Code).
+The contractual partners are Tomes GmbH, Engesserstr. 4a, 79108 Freiburg i. Br. as provider and the customer, who is an entrepreneur within the meaning of the §14 BGB (German Civil Code) by German Law.
 
 ### Subject of the Contract
 
-These terms and conditions apply to the use of the software Idana of Tomes GmbH as Software-as-a-Service (“SaaS”) according to the current product description.  The software is provided by the provider for download and uses server and system components provided by Tomes GmbH as SaaS.
+These terms and conditions apply to the use of the software Idana and the website idana.app of Tomes GmbH as Software-as-a-Service ("SaaS") according to the current product description. The software is provided by the provider for download and as a website and uses server and system components provided by Tomes GmbH as SaaS.
 
 The customer is enabled to use the software stored and running on the servers of the provider or a service provider commissioned by the provider via an Internet connection during the term of this contract for his own purposes and to store and process his data with their help.
 
@@ -21,7 +21,7 @@ To use Idana, the customer must perform the following activities:
 
 1. download and install the application for practitioners and staff ("desktop app"), which can be downloaded from the idana.one homepage, on a PC running Windows 7 or later or on a Mac running Mac OS X 10.9 or later.
 
-2. make the application for patients ("patient app") available to the patient via the website idana.app. An up-to-date web browser is required. If the patient app is provided via an app store, it can also be installed over it. The patient app runs on both mobile and stationary devices. The patient can be provided with a device (e.g. a tablet) to fill out or he can be asked to use his own device. The patient can use the patient app on site as well as from home or on the road.
+2. provide the patient with the application for patients ("patient app") via the website idana.app. An up-to-date web browser is required. If the patient app is provided via an app store, it can also be installed over it. The patient app runs on both mobile and stationary devices. The patient can be provided with a device (e.g. a tablet) to fill out or he can be asked to use his own device. The patient can use the patient app on site as well as from home or on the road.
 
 3. register a user account in the desktop app and log in to the desktop app. Authentication takes place via a user ID (e-mail) and a password ("login password") via the service provider Auth0 Inc. The password can be changed at any time by the customer by using the "Forgot password" function.
 
@@ -31,13 +31,13 @@ To use Idana, the customer must perform the following activities:
 
 Idana enables the customer to communicate with patients in writing and to document their medical history, i.e. symptoms, medical history and relevant background information.
 
-Tomes GmbH provides the customer with the Idana software solution for downloading via an Internet connection (desktop app) or as a website (patient app).
+Tomes GmbH provides the customer with the Idana software solution for downloading via an Internet connection (desktop app) or as a website (patient app). Using the desktop app, the customer can configure and manage the questionnaires for patients, view and feed the results. The patient app is provided to the customer for his patients so that they can complete the digital questionnaires.
 
 Tomes GmbH operates the server and system components necessary for the operation of Idana and provides these to the customer as Software-as-a-Service for the duration of the contract.  The components are operated in a technically and organizationally secured, high-performance data center certified according to ISO 27001.
 
 The communication of the software installed by the customer and the server provided by Tomes GmbH takes place exclusively via encrypted connections via HTTPS.  All data is stored encrypted in the data center.
 
-Patient data is encrypted with the user's public key before being transferred in the patient app and decrypted locally in the desktop app at the user. No unencrypted patient data is transmitted over the Internet. Neither Tomes GmbH nor the operators of the data centers can view patient data.
+The patient's answers are encrypted with the customer's public key before being transferred to the patient app and decrypted locally in the desktop app at the customer. No unencrypted patient data is transmitted over the Internet. Neither Tomes GmbH nor the operators of the data centers can make encrypted patient data readable.
 
 Tomes GmbH does not process order data for the customer, all patient data is processed locally in the apps provided according to the actions carried out by the customer.
 
@@ -78,6 +78,9 @@ The customer may neither sell the software Idana beyond the scope of this contra
 ### Free Trial
 
 Each customer is entitled to activate the free trial period once, which provides full access to Idana’s features for 30 days according to the service description. After the trial period, the account is automatically terminated as long as no chargeable license is purchased.
+
+The customer is not allowed to create multiple user accounts for multiple use of the free trial period. Tomes GmbH reserves the right to deactivate the accounts in case of a violation of this guideline and to claim damages if necessary. The registration of several accounts and multiple activation of the test phase by a customer is only permitted if these are used by different persons, e.g. different departments of a clinic.
+
 
 ### Paid License
 
@@ -132,4 +135,4 @@ The entire contractual relationship between Tomes GmbH and its commercial contra
 
 German law shall apply to the contractual relationships of the contracting parties. Place of jurisdiction is Freiburg im Breisgau.
 
-The GTC can also be found online at idana.one/en/gtc
+The GTC can also be found online at [idana.one/en/gtc](https://idana.one/en/gtc)
