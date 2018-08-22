@@ -1,7 +1,7 @@
 ## General Terms and Conditions for the Idana application (Desktop App and Patient App)
 Date: 2018-08-22
 
-### Contracting partner
+### Contracting partners
 
 The contractual partners are Tomes GmbH, Engesserstr. 4a, 79108 Freiburg i. Br. as provider and the customer, who is an entrepreneur within the meaning of the §14 BGB (German Civil Code) by German Law.
 

@@ -26,16 +26,13 @@ Idana Local kann ausschließlich gemeinsam mit Idana betrieben werden. Zur Nutzu
 
 1. Die von der Tomes GmbH bereitgestellte Installationsdatei auf einem eigenen Server installieren. Der Server muss die von der Tomes GmbH genannten Systemanforderungen erfüllen.
 
-2. Sicherstellen, dass jede Installation der Desktop-App, die Idana Local nutzen soll, über eine kontinuierliche Netzwerkverbindung zum Idana-Local-Server verfügt.
+2. Sicherstellen, dass jede Installation der Desktop-App, die Idana Local nutzen soll, über eine kontinuierliche Netzwerkverbindung zum Idana-Local-Server und eine kontinuierliche Internetverbindung verfügt.
 
 ### Leistungen der Tomes GmbH
 
-Idana Local ermöglicht dem Kunden die Speicherung der in Idana genutzten Patientendaten auf einem eigenen Server. 
-Wenn Idana Local in der Systemumgebung, in der Idana genutzt wird, installiert und konfiguriert wurde, speichert die Desktop-App von Idana vom Nutzer eingegebene Patientendaten direkt in der Datenbank von Idana Local, nicht mehr auf den Servern der Tomes GmbH. 
-Darüber hinaus ruft die Desktop-App kontinuierlich neue von der Patienten-App erzeugte Datensätze von den Server der Tomes GmbH ab und kopiert diese entschlüsselt in die Idana-Local-Datenbank.
-Mit der Patienten-App erzeugte Datensätze werden auf den Servern der Tomes GmbH so lange gespeichert, bis die Desktop-App von Idana diese abruft. Bei kontinuierlicher Internetverbindung der Desktop-App findet der Datenabruf innerhalb weniger Sekunden nach Eintreffen eines neuen Datenpakets statt.
+Idana Local ermöglicht dem Kunden die Speicherung der in Idana genutzten Patientendaten auf einem eigenen Server. Wenn Idana Local in der Systemumgebung, in der Idana genutzt wird, installiert und konfiguriert wurde, speichert die Desktop-App von Idana vom Nutzer eingegebene Patientendaten direkt in der Datenbank von Idana Local, nicht mehr auf den Servern der Tomes GmbH.  Darüber hinaus ruft die Desktop-App kontinuierlich neue von der Patienten-App erzeugte Datensätze von den Server der Tomes GmbH ab und kopiert diese entschlüsselt in die Idana-Local-Datenbank. Mit der Patienten-App erzeugte Datensätze werden auf den Servern der Tomes GmbH so lange gespeichert, bis die Desktop-App von Idana diese abruft. Bei kontinuierlicher Internetverbindung der Desktop-App findet der Datenabruf innerhalb weniger Sekunden nach Eintreffen eines neuen Datenpakets statt.
 
-@JEROME: WIE IST DAS NOCHMAL MIT DER AUTHENTIFIZIERUNG? Die Patientendaten werden aus Performancegründen unverschlüsselt in Idana Local gespeichert. Dem Kunden obliegt die Wahrung der IT-Sicherheit, z.B. indem das Laufwerk, auf dem die Datenbank gespeichert wird, verschlüsselt wird.
+Der Zugriff auf Idana Local wird über Authentifizierung geschützt, die Zugangsdaten werden mit dem Idana-Account verknüpft. Die Kommunikation mit dem Idana-Local-Server geschieht über verschlüsselte HTTPS-Kanäle. Die Daten selbst werden aus Performancegründen unverschlüsselt in Idana Local gespeichert. Dem Kunden obliegt die Wahrung der IT-Sicherheit, z.B. indem das Laufwerk, auf dem die Datenbank gespeichert wird, verschlüsselt wird.
 
 ### Nutzungsrechte
 
