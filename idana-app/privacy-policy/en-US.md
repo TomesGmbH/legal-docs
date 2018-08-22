@@ -1,5 +1,28 @@
-## Data protection policy for the Idana app (mobile and desktop)
-Date: 2018-05-07
+## Data protection policy for the Idana app (desktop app and patient app)
+Date: 2018-22-08
+
+## Summary
+
+Idana is offered **by Tomes GmbH** as **Software-as-a-Service** and is used for the collection and documentation of **medical questionnaires**, especially for the collection of medical history. 
+
+With the ***Idana Safe Cloud***, Tomes GmbH offers the customer (practice or clinic) a **secure infrastructure for storing patient data**. The aim is to offer customers the lowest possible risk of downtime/loss and, at the same time, availability regardless of location. For EU customers, the *Idana Safe Cloud* is operated at data centers within the European Union.
+
+Idana **maintains medical confidentiality** and ensures that only the customer can read the data provided by his patients. This is realized by encrypting the patient's answers using hybrid encryption algorithms before they are transferred to the *Idana Safe Cloud*. **Only the customer has the key required for decryption** - in the form of a freely assigned PIN that is not transmitted at any time. Only encrypted patient data is transferred to and retrieved from the *Idana Safe Cloud*.
+
+At no time is unencrypted patient data stored on Tomes GmbH servers - except as directed by the customer when using the Idana Email Service. Neither Tomes GmbH nor its contractors (i.e. data center operators) can make encrypted patient data legible.**Tomes GmbH does not know the content of the encrypted data packages nor the name of any patient whom they belong to.** This guarantees that Tomes GmbH does not have access to personal patient data. From Tomes GmbH's point of view, the encrypted patient data are regarded as anonymous data, since there is no (legal) way to establish a personal reference. **Tomes GmbH therefore also does not act as an data processor.**
+
+The encrypted patient data in the *Idana Safe Cloud* is **protected by various security systems**. They can only be retrieved after successful authentication in the system with user e-mail and user password. The data is additionally encrypted on the server side and backups are automatically created.
+
+The customer can **optionally install *Idana Local*** as an extension. New data records (i.e. completed questionnaires) are moved directly into a **database operated on the customer's own servers** and then deleted from the *Idana Safe Cloud*. As long as *Idana Local* is connected to the *Idana Safe Cloud*, new records can be made available immediately and are usually stored in the *Idana Safe Cloud* for no longer than one second.  
+
+The **Idana E-Mail-Service** offers the possibility to send the patient an automated e-mail with instructions for starting the questionnaire. Name, date of birth, gender, e-mail, patient ID as well as the selected questionnaires and language plus an optional message to the patient is sent to the Idana server to send the e-mail to the patient. **After the e-mail is sent, all data is deleted immediately** - for details see section 3.3.
+
+Tomes GmbH stores and processes **personal data about the customer**. This includes the **registration data** (see Section 3.1) and **payment data** (see Section 3.2). Usage data (see section 3.4) are stored for security reasons during registration and login (IP address, time) and at the start of a new survey (time, selected questionnaires). **No usage data is stored in the patient app.**
+
+All Internet communication between users, Idana servers and e-mail services is handled exclusively via **encrypted HTTPS channels** and thus offers eavesdropping protection.
+
+
+## Complete data protection policy
 
 ### 1\. Information about the collection of personal data and provider identification
 
@@ -41,7 +64,21 @@ The data will be deleted as soon as it is no longer necessary to achieve the pur
 
 As a user you have the possibility to cancel your paid license at any time. This is possible in Idana’s desktop app under “My Account”. You can change the data stored about you at any time. You can arrange the latter by e-mail to kontakt@idana.one Premature deletion of the data is only possible if contractual or legal obligations do not prevent deletion.
 
-#### 3.3 Usage data
+##### 3.3 Idana Email Service
+
+Idana offers the option of sending the patient an e-mail with instructions on how to complete the questionnaire configured for him. The following additional data is collected:
+
+*   Name, gender, date of birth, patient ID and e-mail address of the patient
+*   Selected questionnaires and questionnaire language
+*   Optional a personal message to the patient, which is attached to the e-mail template.
+
+These data are transmitted to the Tomes GmbH servers and inserted into an e-mail template. This is sent to the patient via the e-mail provider *Mailjet* (Mailjet GmbH) as an order processor. The data is then immediately deleted from the servers of Tomes GmbH and is therefore only available there for a few seconds.
+
+The legal basis for the processing of data is the fulfilment of a contract to which the user is a party, in accordance with Art. 6 para. 1 lit. b DSGVO. The user is obliged to ensure that the data is passed on to Tomes GmbH in conformity with data protection regulations, usually with the patient's consent to send the e-mail. Tomes GmbH does not act as a contract processor.
+
+The data will be deleted as soon as they are no longer necessary to achieve the purpose for which they were collected. This is the case immediately after sending the e-mail. For the processing of the data by Mailjet see their[Privacy Policy](https://www.mailjet.com/security-privacy/).
+
+#### 3.4 Usage data
 
 When using the Idana desktop app, the following usage data is collected for security, billing and evaluation purposes:
 
@@ -56,9 +93,9 @@ The Idana mobile app (“patient app”) does not transmit any personal data, in
 
 ### 4\. Patient data
 
-Patient data entered into Idana is encrypted using a password known only to the customer. This password is to remain within the group of persons authorized to work with patient data.
+Patient data entered in Idana is encrypted in such a way that it can only be decrypted with the help of a separate password - called a PIN. This password is to remain within the group of persons authorized to work with patient data.
 
-Neither Tomes GmbH nor the operators of the data centers used have access to the key. The encrypted patient data can therefore be regarded as anonymous data.
+Neither Tomes GmbH nor the operators of its commissioned data centres have access to the key or unencrypted patient data (exception: see section 3.3 E-mail service). The encrypted patient data can therefore be regarded as anonymous data.
 
 The encrypted data is transmitted to Tomes GmbH to be stored and made available to the customer for retrieval at any time and from any location. The customer can delete encrypted data any time within the desktop app.
 

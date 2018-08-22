@@ -19,7 +19,8 @@ Entry in the commercial register.
 Register court: Local court Freiburg  
 Register number: HRB 715456
 
-VAT identification number: DE309156261  
+VAT identification number: DE309156261
+
 ### Responsible person for the content
 
 Dr. Lucas Spohn
