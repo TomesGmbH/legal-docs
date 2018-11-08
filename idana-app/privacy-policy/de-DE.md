@@ -1,26 +1,26 @@
 ## Datenschutzerklärung zur App Idana (Desktop-App und Patienten-App)
 
-Stand: 22.08.2018
+Stand: 08.11.2018
 
 ### Zusammenfassung
 
-Idana wird **von der Tomes GmbH als Software-as-a-Service** angeboten und dient der Erfassung und Dokumentation von **medizinischen Fragebögen**, insbesondere für die Erhebung der Anamnese. 
+Idana wird von der Tomes GmbH als Software-as-a-Service angeboten und dient der Erfassung und Dokumentation von medizinischen Fragebögen, insbesondere für die Erhebung der Anamnese. 
 
-Die Tomes GmbH bietet dem Kunden (Praxis oder Klinik) mit der ***Idana Safe Cloud*** eine **sichere Infrastruktur zur Speicherung der Patientendaten**. Hiermit soll Kunden ein möglichst geringes Ausfall-/Verlustrisiko und gleichzeitig eine standortunabhängige Verfügbarkeit geboten werden. Für Kunden in der europäischen Union wird die *Idana Safe Cloud* auf Rechenzentren innerhalb der EU betrieben.
+Die Tomes GmbH bietet dem Kunden (Praxis oder Klinik) mit der Idana Cloud eine sichere Infrastruktur zur Speicherung der Patientendaten. Hiermit soll Kunden ein möglichst geringes Ausfall-/Verlustrisiko und gleichzeitig eine standortunabhängige Verfügbarkeit geboten werden. Für Kunden in der europäischen Union wird die Idana Cloud auf Rechenzentren innerhalb der EU betrieben.
 
-Idana **wahrt die ärztliche Schweigepflicht** und stellt sicher, dass ausschließlich der Kunde die von seinen Patienten übermittelten Daten lesen kann. Dies wird darüber realisiert, dass die Antworten des Patienten über hybride Verschlüsselungsverfahren noch vor der Übertragung in die *Idana Safe Cloud* verschlüsselt werden. **Ausschließlich der Kunde verfügt über den für die Entschlüsselung benötigten Schlüssel** - in Form einer frei vergebenen PIN, die zu keinem Zeitpunkt übertragen wird. Es werden somit ausschließlich verschlüsselte Patientendaten in die *Idana Safe Cloud* übertragen und von ihr abgerufen.
+Idana wahrt die ärztliche Schweigepflicht und stellt sicher, dass ausschließlich der Kunde die von seinen Patienten übermittelten Daten lesen kann. Dies wird darüber realisiert, dass die Antworten des Patienten über hybride Verschlüsselungsverfahren noch vor der Übertragung in die Idana Cloud verschlüsselt werden. Ausschließlich der Kunde verfügt über den für die Entschlüsselung benötigten Schlüssel - in Form einer frei vergebenen PIN, die zu keinem Zeitpunkt übertragen wird. Es werden somit ausschließlich verschlüsselte Patientendaten in die Idana Cloud übertragen und von ihr abgerufen.
 
-Zu keinem Zeitpunkt liegen auf Servern der Tomes GmbH unverschlüsselte Patientendaten - mit Ausnahme auf Anweisung des Kunden hin bei der Nutzung des Idana E-Mail-Service. Weder die Tomes GmbH noch deren Auftragsverarbeiter (d.h. Betreiber der Rechenzentren) können verschlüsselte Patientendaten lesbar machen. **Der Tomes GmbH kennt weder Inhalt verschlüsselter Datenpakete noch der Namen irgendeines Patienten, dem sie zugeordnet sind.** Damit ist gewährleistet, dass die Tomes GmbH keinen Zugriff auf personenbezogene Patientendaten besitzt. Die verschlüsselten Patientendaten werden aus Sicht der Tomes GmbH als anonymisierte Daten betrachtet, da keinen (legalen) Weg gibt, einen Personenbezug herzustellen. **Die Tomes GmbH tritt somit auch nicht als Auftragsdatenverarbeiter auf.**
+Zu keinem Zeitpunkt liegen auf Servern der Tomes GmbH unverschlüsselte Patientendaten - mit Ausnahme auf Anweisung des Kunden hin bei der Nutzung des Idana E-Mail-Service. Weder die Tomes GmbH noch deren Auftragsverarbeiter (d.h. Betreiber der Rechenzentren) können verschlüsselte Patientendaten lesbar machen. Der Tomes GmbH kennt weder Inhalt verschlüsselter Datenpakete noch der Namen irgendeines Patienten, dem sie zugeordnet sind. Damit ist gewährleistet, dass die Tomes GmbH keinen Zugriff auf personenbezogene Patientendaten besitzt. Die verschlüsselten Patientendaten werden aus Sicht der Tomes GmbH als anonymisierte Daten betrachtet, da keinen (legalen) Weg gibt, einen Personenbezug herzustellen. Die Tomes GmbH tritt somit auch nicht als Auftragsdatenverarbeiter auf.
 
-Die verschlüsselten Patientendaten in der *Idana Safe Cloud* werden **über verschiedene Sicherheitssysteme geschützt**. So können sie erst nach erfolgreicher Authentifizierung im System mit Benutzer-E-Mail und Benutzerpasswort abgerufen werden. Die Daten werden zusätzlich serverseitig verschlüsselt und es werden automatisch Sicherheitskopien erstellt.
+Die verschlüsselten Patientendaten in der Idana Cloud werden über verschiedene Sicherheitssysteme geschützt. So können sie erst nach erfolgreicher Authentifizierung im System mit Benutzer-E-Mail und Benutzerpasswort abgerufen werden. Die Daten werden zusätzlich serverseitig verschlüsselt und es werden automatisch Sicherheitskopien erstellt.
 
-Der Kunde kann **optional *Idana Local* als Erweiterung installieren**. Hierbei werden neue Datensätze (d.h. beantwortete Fragebögen) direkt in eine auf **eigenen Servern des Kunden** betriebene Datenbank verschoben und aus der *Idana Safe Cloud* gelöscht. Solange *Idana Local* mit der *Idana Safe Cloud* verbunden ist, können neue Datensätze unverzüglich bereitgestellt werden und werden üblicherweise nicht länger als eine Sekunde in der *Idana Safe Cloud* gespeichert.  
+Der Kunde kann optional Idana Local als Erweiterung installieren. Hierbei werden neue Datensätze (d.h. beantwortete Fragebögen) direkt in eine auf eigenen Servern des Kunden betriebene Datenbank verschoben und aus der Idana Cloud gelöscht. Solange Idana Local mit der Idana Cloud verbunden ist, können neue Datensätze unverzüglich bereitgestellt werden und werden üblicherweise nicht länger als eine Sekunde in der Idana Cloud gespeichert.  
 
-Der **Idana E-Mail-Service** bietet die Möglichkeit, dem Patienten automatisiert eine E-Mail mit einer Anleitung zum Start des Fragebogens zu schicken. Hierbei werden Name, Geburtsdatum, Geschlecht, E-Mail, Patienten-ID sowie die ausgewählten Fragebögen und die ausgewählte Sprache plus optional eine Nachricht an den Patienten an die Idana-Server übermittelt, um dem Patienten die E-Mail zu schicken. **Nach dem E-Mail-Versand werden alle Daten direkt gelöscht** - für Details siehe Abschnitt 3.3.
+Der Idana E-Mail-Service bietet die Möglichkeit, dem Patienten automatisiert eine E-Mail mit einer Anleitung zum Start des Fragebogens zu schicken. Hierbei werden Name, Geburtsdatum, Geschlecht, E-Mail, Patienten-ID sowie die ausgewählten Fragebögen und die ausgewählte Sprache plus optional eine Nachricht an den Patienten an die Idana-Server übermittelt, um dem Patienten die E-Mail zu schicken. Nach dem E-Mail-Versand werden alle Daten direkt gelöscht - für Details siehe Abschnitt 3.3.
 
-Die Tomes GmbH gespeichert und verarbeitet **personenbezogene Daten über den Kunden**. Dies beinhaltet die **Registrierungsdaten** (siehe Abschnitt 3.1) und **Zahlungsdaten** (siehe Abschnitt 3.2). Nutzungsdaten (siehe Abschnitt 3.4) werden aus Sicherheitsgründen bei der Registrierung und dem Login gespeichert (IP-Adresse, Zeitpunkt) sowie bei dem Start einer neuen Befragung (Zeitpunkt, ausgewählte Fragebögen). **In der Patienten-App werden keine Nutzungsdaten gespeichert.**
+Die Tomes GmbH gespeichert und verarbeitet personenbezogene Daten über den Kunden. Dies beinhaltet die Registrierungsdaten (siehe Abschnitt 3.1) und Zahlungsdaten (siehe Abschnitt 3.2). Nutzungsdaten (siehe Abschnitt 3.4) werden aus Sicherheitsgründen bei der Registrierung und dem Login gespeichert (IP-Adresse, Zeitpunkt) sowie bei dem Start einer neuen Befragung (Zeitpunkt, ausgewählte Fragebögen). In der Patienten-App werden keine Nutzungsdaten gespeichert.
 
-Jegliche Internetkommunikation zwischen Nutzern, Idana-Servern und E-Mail-Diensten findet ausschließlich über **verschlüsselte HTTPS-Kanäle** statt und bietet somit Abhörschutz.
+Jegliche Internetkommunikation zwischen Nutzern, Idana-Servern und E-Mail-Diensten findet ausschließlich über verschlüsselte HTTPS-Kanäle statt und bietet somit Abhörschutz.
 
 ## Vollständige Datenschutzerklärung
 
@@ -42,8 +42,8 @@ Um Ihre Daten zu schützen, setzen wir auf die weltweit führenden Unternehmen i
 
 Die Registrierung eines Benutzeraccounts in der Desktop-App von Idana ist erforderlich, um Idana als Software-as-a-Service gemäß der aktuellen Leistungsbeschreibung bereitzustellen sowie Unterstützung bei Fehlfunktionen (Service und Support) zu bieten. Bei der Registrierung werden folgende Daten über den Nutzer erhoben und von der Tomes GmbH verarbeitet:
 
-*   E-Mail-Adresse, Geschlecht, Titel, Vor- und Nachname, Bezeichnung der Praxis/Klinik, Adresse, Telefonnummer.
-*   Datum und Uhrzeit der Registrierung
+   E-Mail-Adresse, Geschlecht, Titel, Vor- und Nachname, Bezeichnung der Praxis/Klinik, Adresse, Telefonnummer.
+   Datum und Uhrzeit der Registrierung
 
 Rechtsgrundlage für die Verarbeitung der Daten ist die Einwilligung des Nutzers gemäß Art. 6 Abs. 1 lit. a DSGVO. Zusätzliche Rechtsgrundlage für die Verarbeitung der Daten ist die Erfüllung eines Vertrages, dessen Vertragspartei der Nutzer ist, gemäß  Art. 6 Abs. 1 lit. b DSGVO.
 
@@ -55,8 +55,8 @@ Als Nutzer haben sie jederzeit die Möglichkeit, Ihre Registrierung aufzulösen.
 
 Für die Nutzung von Idana nach der Testphase ist der Erwerb einer kostenpflichtigen Lizenz notwendig, um Idana als Software-as-a-Service gemäß der aktuellen Leistungsbeschreibung bereitzustellen. Hierbei werden werden zusätzlich folgende Daten erhoben:
 
-*   Zahlungsinformationen (Zahlungsadresse, Bankverbindung, Kreditkartennummer und sonstige für die Abrechnung relevante Informationen)
-*   Datum und Uhrzeit des Erwerbs der kostenpflichtigen Lizenz
+   Zahlungsinformationen (Zahlungsadresse, Bankverbindung, Kreditkartennummer und sonstige für die Abrechnung relevante Informationen)
+   Datum und Uhrzeit des Erwerbs der kostenpflichtigen Lizenz
 
 Rechtsgrundlage für die Verarbeitung der Daten  ist die Erfüllung eines Vertrages, dessen Vertragspartei der Nutzer ist, gemäß  Art. 6 Abs. 1 lit. b DSGVO.
 
@@ -69,11 +69,11 @@ Als Nutzer haben sie jederzeit die Möglichkeit, Ihre kostenpflichtige Lizenz zu
 Idana bietet die Option, dem Patienten eine E-Mail mit einer Anleitung zum Ausfüllen des für ihn konfigurierten Fragebogens zu schicken.
 Hierbei werden werden zusätzlich folgende Daten erhoben:
 
-*   Name, Geschlecht, Geburtsdatum, Patienten-ID und E-Mail-Adresse des Patienten
-*   Ausgewählte Fragebögen und Fragebogensprache
-*   Optional eine persönliche Nachricht an den Patienten, die der E-Mail-Vorlage beigefügt wird.
+   Name, Geschlecht, Geburtsdatum, Patienten-ID und E-Mail-Adresse des Patienten
+   Ausgewählte Fragebögen und Fragebogensprache
+   Optional eine persönliche Nachricht an den Patienten, die der E-Mail-Vorlage beigefügt wird.
 
-Diese Daten werden an die Server der Tomes GmbH übermittelt und in eine E-Mail-Vorlage eingefügt. Diese wird über den E-Mail-Provider *Mailjet* (Mailjet GmbH) als Auftragsverarbeiter an den Patienten geschickt. Die Daten werden anschließend unverzüglich von den Servern der Tomes GmbH gelöscht und liegen somit dort insgesamt nur wenige Sekunden vor.
+Diese Daten werden an die Server der Tomes GmbH übermittelt und in eine E-Mail-Vorlage eingefügt. Diese wird über den E-Mail-Provider Mailjet (Mailjet GmbH) als Auftragsverarbeiter an den Patienten geschickt. Die Daten werden anschließend unverzüglich von den Servern der Tomes GmbH gelöscht und liegen somit dort insgesamt nur wenige Sekunden vor.
 
 Rechtsgrundlage für die Verarbeitung der Daten ist die Erfüllung eines Vertrages, dessen Vertragspartei der Nutzer ist, gemäß  Art. 6 Abs. 1 lit. b DSGVO. Dem Nutzer obliegt dabei die Pflicht, die datenschutzkonforme Weitergabe der Daten an die Tomes GmbH sicherzustellen, i.d.R. über eine Einwilligung des Patienten zum Versand der E-Mail. Die Tomes GmbH tritt nicht als Auftragsverarbeiter auf.
 
@@ -83,8 +83,8 @@ Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erh
 
 Bei der Nutzung der Desktop-App von Idana werden die folgenden Nutzungsdaten zu Sicherheits-, Abrechnungs- und Evaluationszwecken erhoben:
 
-*   Bei der Registrierung und beim Login: Zeitpunkt, IP-Adresse, Programmversion
-*   Bei der Erstellung einer neuen Erhebung: Zeitpunkt, ausgewählte Fragebögen
+   Bei der Registrierung und beim Login: Zeitpunkt, IP-Adresse, Programmversion
+   Bei der Erstellung einer neuen Erhebung: Zeitpunkt, ausgewählte Fragebögen
 
 Rechtsgrundlage für die Verarbeitung der Daten ist die Erfüllung eines Vertrages, dessen Vertragspartei der Nutzer ist, gemäß  Art. 6 Abs. 1 lit. b DSGVO.
 
