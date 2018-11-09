@@ -10,7 +10,7 @@ Vertragspartner sind die Tomes GmbH, Engesserstr. 4a, 79108 Freiburg i. Br. als 
 
 Diese Vertragsbedingungen gelten für die Nutzung der Software Idana und der Website idana.app der Tomes GmbH gemäß der aktuellen Produktbeschreibung als Software-as-a-Service („SaaS“). Die Software wird vom Anbieter zum Download und als Website bereitgestellt und nutzt von der Tomes GmbH als SaaS bereitgestellte Server- und Systemkomponenten.
 
-Ihnen wird ermöglicht, die auf den Servern des Anbieters bzw. eines vom Anbieter beauftragten Dienstleisters gespeicherte und ablaufende Software über eine Internetverbindung während der Laufzeit dieses Vertrags für eigene Zwecke zu nutzen und seine Daten mit ihrer Hilfe zu speichern und zu verarbeiten.
+Ihnen wird ermöglicht, die auf den Servern des Anbieters bzw. eines vom Anbieter beauftragten Dienstleisters gespeicherte und ablaufende Software über eine Internetverbindung während der Laufzeit dieses Vertrags für eigene Zwecke zu nutzen und Ihre Daten mit Ihrer Hilfe zu speichern und zu verarbeiten.
 
 ### Zustandekommen des Vertrages
 
@@ -22,11 +22,11 @@ Zur Nutzung von Idana müssen Sie folgende Aktivitäten durchführen:
 
 1. Die Applikation für Behandelnde und Mitarbeiter (“Desktop-App”), welche über die Homepage idana.one beziehbar ist, auf einem PC mit Windows 7 oder neuer oder auf einem Mac mit Mac OS X 10.9 oder neuer herunterladen und installieren.
 
-2. Dem Patienten die Applikation für Patienten (“Patienten-App”) über die Website idana.app bereitstellen. Hierzu ist ein aktueller Webbrowser erforderlich. Wenn die Patienten-App über einen App-Store bereitgestellt wird, kann diese auch darüber installiert werden. Die Patienten-App läuft sowohl auf mobilen wie auch stationären Geräten. Dem Patienten kann ein Gerät (z.B. ein Tablet) zum Ausfüllen bereitgestellt werden oder er zur Nutzung seines eigenen Geräts aufgefordert werden. Der Patient kann die Patienten-App sowohl vor Ort als auch von daheim oder unterwegs nutzen.
+2. Dem Patienten die Applikation für Patienten (“Patienten-App”) über die Website idana.app bereitstellen. Hierzu ist ein aktueller Webbrowser erforderlich. Wenn die Patienten-App über einen App-Store bereitgestellt wird, kann diese auch darüber installiert werden. Die Patienten-App läuft sowohl auf mobilen wie auch stationären Geräten. Dem Patienten kann ein Gerät (z.B. ein Tablet) zum Ausfüllen bereitgestellt werden oder er kann zue Nutzung seines eigenen Geräts aufgefordert werden. Der Patient kann die Patienten-App sowohl vor Ort als auch von daheim oder unterwegs nutzen.
 
 3. Einen Benutzeraccount in der Desktop-App registrieren und sich damit in der Desktop-App einloggen. Die Authentifizierung erfolgt hierbei über eine Benutzerkennung (E-Mail) und ein Passwort (“Login-Passwort”) über den Dienstleister Auth0 Inc. Das Passwort kann jederzeit von Ihnen geändert werden, indem die “Passwort vergessen”-Funktion benutzt wird.
 
-4. Den Registrierungsprozess durchführen, der beim ersten Login in die Desktop-App begonnen wird. In diesem werden die Kundendaten erfasst und ein Schlüsselpaar bestehend aus einem privaten und öffentlichen Schlüssel Desktop-App generiert. Der private Schlüssel wird mit einem von Ihnen festgelegten Passwort (“PIN”) verschlüsselt und zu keinem Zeitpunkt in unverschlüsselter Form übertragen. Der private Schlüssel wird als Wiederherstellungsschlüssel von Ihnen offline gespeichert, um die Daten bei einem Passwortverlust wiederherstellen zu können.
+4. Den Registrierungsprozess durchführen, der beim ersten Login in die Desktop-App begonnen wird. In diesem werden Ihre Kontaktdaten erfasst und ein Schlüsselpaar bestehend aus einem privaten und öffentlichen Schlüssel Desktop-App generiert. Der private Schlüssel wird mit einem von Ihnen festgelegten Passwort (“PIN”) verschlüsselt und zu keinem Zeitpunkt in unverschlüsselter Form übertragen. Der private Schlüssel wird als Wiederherstellungsschlüssel von Ihnen offline gespeichert, um die Daten bei einem Passwortverlust wiederherstellen zu können.
 
 ### Leistungen der Tomes GmbH
 
@@ -62,13 +62,13 @@ Sie sind dazu verpflichtet, bei der Nutzung des Idana E-Mail-Service die Datensc
 
 Sie sind dazu verpflichtet, Änderungen Ihrer Kontaktdaten unverzüglich über die Seite "Mein Konto" in der Desktop-App mitzuteilen.
 
-Sie sind dazu verpflichtet, die Geltendmachung angeblicher Rechte durch Dritte sowie Mängel oder Schäden an Idana unverzüglich anzuzeigen.
+Sie sind dazu verpflichtet, die Geltendmachung angeblicher Rechte durch Dritte sowie Mängel oder Schäden an Idana unverzüglich der Tomes GmbH anzuzeigen.
 
 ### Softwareupdates
 
 Die Tomes GmbH bietet in unregelmäßigen Abständen Aktualisierungen der Software an. Sie werden bei bestehender Internetverbindung automatisch über das Vorliegen einer Aktualisierung der Desktop-App informiert. Die Patienten-App wird als Website bereitgestellt und automatisch aktualisiert. Das Update wird unter Umständen verzögert ausgeliefert, da die Patienten-App lokal zwischengespeichert (gecached) wird.
 
-Der Download der Softwareaktualisierung ist zwingende Voraussetzung für die Sicherstellung, dass Sie die aktuellste Fassung der Software nutzen und von den neuesten Funktionalitäten Gebrauch machen kann. Die Tomes GmbH weist darauf hin, dass die Funktionalität nicht oder nur eingeschränkt nutzbar ist, wenn die Installation der Aktualisierung unterbleibt. Die Tomes GmbH ist in diesem Fall von jeder Haftung freigestellt, sofern sie nachweist, dass der Mangel bei Installation der jeweils aktuellsten Softwareversion nicht aufgetreten wäre.
+Der Download der Softwareaktualisierung ist zwingende Voraussetzung für die Sicherstellung, dass Sie die aktuellste Fassung der Software nutzen und von den neuesten Funktionalitäten Gebrauch machen kann. Die Tomes GmbH weist darauf hin, dass die Funktionalität nicht oder nur eingeschränkt nutzbar ist, wenn die Installation der Aktualisierung unterbleibt. Die Tomes GmbH ist in diesem Fall von jeder Haftung freigestellt, sofern der Mangel bei Installation der jeweils aktuellsten Softwareversion nicht aufgetreten wäre.
 
 ### Betaversionen
 
@@ -82,15 +82,15 @@ Sie dürfen die Software Idana über den Rahmen dieses Vertrages hinaus Anderen 
 
 Sie sind berechtigt, einmal die kostenlose Testphase zu aktivieren, welche vollen Zugriff auf die Funktionen von Idana gemäß der Leistungsbeschreibung für 30 Tage bietet. Nach der Testphase gilt der Account automatisch als gekündigt, solange keine kostenpflichtige Nutzungslizenz erworben wird.
 
-Ihnen ist es nicht gestattet, mehrere Benutzeraccounts erstellen, um die kostenlose Testphase mehrfach in Anspruch zu nehmen. Die Tomes GmbH behält sich das Recht vor, alle Ihre Accounts bei einem Verstoß gegen diese Richtlinie zu deaktivieren und ggf. Schadensersatz geltend zu machen. Das Registrieren mehrerer Accounts und mehrfacher Aktivierung der Testphase ist nur dann zulässig, wenn diese von unterschiedlichen Personen genutzt werden, z.B. verschiedenen Abteilungen einer Klinik.
+Ihnen ist es nicht gestattet, mehrere Benutzeraccounts erstellen, um die kostenlose Testphase mehrfach in Anspruch zu nehmen. Die Tomes GmbH behält sich das Recht vor, alle Ihre Accounts bei einem Verstoß gegen diese Richtlinie zu deaktivieren und ggf. Schadensersatz geltend zu machen. Die Registrierung mehrerer Accounts und mehrfacher Aktivierung der Testphase ist nur dann zulässig, wenn diese von unterschiedlichen Personen genutzt werden, z.B. verschiedenen Abteilungen einer Klinik.
 
 ### Kostenpflichtiges Abonnement
 
-Sie können jederzeit eine kostenpflichtiges Abonnement bestellen, um Idana zeitlich unbeschränkt auch nach Ablauf der Testphase einzusetzen. Dabei gelten die bei der Bestellung aufgeführten Konditionen. Die Bestellung ist innerhalb der Desktop-App möglich und über das Bestellformular auf www.idana.one möglich.
+Sie können jederzeit ein kostenpflichtiges Abonnement bestellen, um Idana zeitlich unbeschränkt auch nach Ablauf der Testphase einzusetzen. Dabei gelten die bei der Bestellung aufgeführten Konditionen. Die Bestellung ist innerhalb der Desktop-App möglich und über das Bestellformular auf www.idana.one möglich.
 
 ### Starterpaket
 
-Sie können ein Starter-Set bestellen, welches geeignete Hardware für die Nutzung von Idana durch Patienten beinhaltet. Die Verfügbarkeit und die Konditionen einschließlich Zahlungsoptionen und Lieferzeiten sind der jeweils aktuellen Leistungsbeschreibung zu entnehmen.
+Sie können ein Starter-Set bestellen, welches geeignete Hardware für die Nutzung von Idana durch Patienten beinhaltet. Die Verfügbarkeit und die Konditionen einschließlich der Zahlungsoptionen und Lieferzeiten sind der jeweils aktuellen Leistungsbeschreibung zu entnehmen.
 
 Die Bestellung stellt ein Angebot zum Abschluss eines Kaufvertrages dar. Sie erhalten eine Nachricht, die den Eingang der Bestellung bestätigt und deren Einzelheiten aufführt. Der Kaufvertrag kommt mit Versand der Ware zustande, über den Sie eine separate Versandbestätigung erhält. Bei Nicht-Zustandekommen des Kaufvertrags werden bereits gezahlte Beträge zurückerstattet.
 
@@ -100,15 +100,15 @@ Kann die Ware nicht zugestellt werden und sind Sie hierfür verantwortlich, z.B.
 
 ### Monatliches Abonnement ("Idana Flexible")
 
-Nach Bearbeitung Ihrer Bestellung wird Idana aktiviert. Die Rechnungsstellung erfolgt immer am Anfang eines Abrechnungsmonats für den jeweiligen Monat als Pauschale zzgl. ggf. anfallender Steuern. Ihr Abonnement wird automatisch ohne weitere Mitteilung verlängert, bis sie es kündigen. Da kein Jahresvertrag abgeschlossen wird, kann sich Ihre Gebühr monatlich ändern. Sie erhalten jedoch immer eine Benachrichtigung über Änderungen in der monatlichen Gebühr und können Ihr Abo entsprechend diesen Vertragsbedingungen kündigen. 
+Die Bestellung stellt ein Angebot zum Abschluss eines Kaufvertrages dar. Nach Annahme Ihrer Bestellung wird Idana aktiviert. Die Rechnungsstellung erfolgt immer am Anfang eines Abrechnungsmonats für den jeweiligen Monat als Pauschale zzgl. ggf. anfallender Steuern. Ihr Abonnement wird automatisch ohne weitere Mitteilung verlängert, bis sie es kündigen. Da kein Jahresvertrag abgeschlossen wird, kann sich Ihre Gebühr monatlich ändern. Sie erhalten jedoch immer eine Benachrichtigung über Änderungen in der monatlichen Gebühr und können Ihr Abo entsprechend diesen Vertragsbedingungen kündigen. 
 
 ### Jährliches Abonnement ("Idana Plus, Premium und All-Inclusive")
 
-Nach Bearbeitung Ihrer Bestellung wird Idana aktiviert. Der zum Zeitpunkt der Bestellung angegebene Jahrestarif wird Ihnen als Pauschale zzgl. ggf. anfallender Steuern in Rechnung gestellt. Die Rechnungsstellung erfolgt immer am Anfang eines Abrechnungsjahrs. Ihr Abonnement wird automatisch ohne weitere Mitteilung um die ursprüngliche Laufzeit verlängert, bis sie es kündigen. Der Verlängerungstarif kann sich ändern, Sie werden jedoch vor einer Änderung des Tarifs benachrichtigt und erhalten die Gelegenheit, entsprechend den Bestimmungen in diesen Nutzungsbedingungen zu kündigen.
+Die Bestellung stellt ein Angebot zum Abschluss eines Kaufvertrages dar. Nach Annahme Ihrer Bestellung wird Idana aktiviert. Der zum Zeitpunkt der Bestellung angegebene Jahrestarif wird Ihnen als Pauschale zzgl. ggf. anfallender Steuern in Rechnung gestellt. Die Rechnungsstellung erfolgt immer am Anfang eines Abrechnungsjahrs. Ihr Abonnement wird automatisch ohne weitere Mitteilung um die ursprüngliche Laufzeit verlängert, bis sie es kündigen. Der Verlängerungstarif kann sich ändern, Sie werden jedoch vor einer Änderung des Tarifs benachrichtigt und erhalten die Gelegenheit, entsprechend den Bestimmungen in diesen Nutzungsbedingungen zu kündigen.
 
 ### Monatliches Abonnement mit variablem Preis ("Idana Basic")
 
-Nach Bearbeitung Ihrer Bestellung wird Idana aktiviert. Die in jedem Monat angefallenen Gebühren werden am Anfang des darauffolgenden Monats in Rechnung gestellt. Der Fixanteil des Tarifs wird für den ersten und letzten Monat anteilig in Rechnung gestellt. Ihr Abonnement wird automatisch ohne weitere Mitteilung verlängert, bis sie es kündigen. Da kein Jahresvertrag abgeschlossen wird, kann sich Ihre Gebühr monatlich ändern. Sie erhalten jedoch immer eine Benachrichtigung über Änderungen in der monatlichen und variablen Gebühr und können Ihr Abo entsprechend diesen Vertragsbedingungen kündigen. 
+Die Bestellung stellt ein Angebot zum Abschluss eines Kaufvertrages dar. Nach Annahme Ihrer Bestellung wird Idana aktiviert. Die in jedem Monat angefallenen Gebühren werden am Anfang des darauffolgenden Monats in Rechnung gestellt. Der Fixanteil des Tarifs wird für den ersten und letzten Monat anteilig in Rechnung gestellt. Ihr Abonnement wird automatisch ohne weitere Mitteilung verlängert, bis sie es kündigen. Da kein Jahresvertrag abgeschlossen wird, kann sich Ihre Gebühr monatlich ändern. Sie erhalten jedoch immer eine Benachrichtigung über Änderungen in der monatlichen und variablen Gebühr und können Ihr Abo entsprechend diesen Vertragsbedingungen kündigen. 
 
 ### Zahlungsbedingungen
 
@@ -116,7 +116,7 @@ Jede Rechnung wird per E-Mail an die von Ihnen registrierte Rechnungsadresse ver
 
 ### Kündigung
 
-Sie können jederzeit via E-Mail an kontakt@idana.one oder via Fax an 0761 6006784-9 Ihre kostenpflichtige Lizenz kündigen. Der frühstmögliche Kündigungszeitpunkt richtet sich nach der Laufzeit des bestellten Tarifs. Die Erfassung neuer Erhebungen wird zum Kündigungszeitpunkt deaktiviert.
+Sie können jederzeit via E-Mail an account@idana.one oder via Fax an +49 761 6006784-9 Ihre kostenpflichtige Lizenz kündigen. Der frühstmögliche Kündigungszeitpunkt richtet sich nach der Laufzeit des bestellten Tarifs. Die Erfassung neuer Erhebungen wird zum Kündigungszeitpunkt deaktiviert.
 
 Im Falle einer Kündigung können bereits erhobene Daten für weitere sechs Monate mit der Desktop-App von Idana betrachtet werden. Nach sechs Monaten werden alle Ihre Daten, einschließlich gespeicherter Patientendaten, gelöscht. Sie erhalten die Möglichkeit, die Patientendaten zu exportieren, um die gesetzlichen Aufbewahrungsfristen zu erfüllen.
 
