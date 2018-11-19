@@ -6,7 +6,7 @@ Das November-Update erweitert Idana um viele neue Funktionen. Die Highlights:
 
 Darunter neue symptombezogene Fragebögen für die Allgemeinmedizin, weitere diagnostische Fragebögen für die Psychiatrie und die Fragebögen der Deutschen Schmerzgesellschaft. Die neue Sektion *Chemotherapie* erleichtert die Therapieüberwachung und das Nebenwirkungsmanagement.
 
-### Birektionale GDT-Schnittstelle
+### Bidirektionale GDT-Schnittstelle
 
 Idana bietet nun einen vollständig integrierten Workflow mit Praxisverwaltungssystemen, die GDT unterstützen. Die Stammdaten werden automatisch importiert und der PDF-Bericht direkt in der Patientenakte abgelegt. Die Schnittstelle kann unter *Einstellungen* konfiguriert werden.
 
