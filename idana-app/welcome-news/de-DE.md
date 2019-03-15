@@ -1,11 +1,13 @@
-## Idana 2.2 veröffentlicht
+## Idana 2.3 veröffentlicht
 
-Das Dezember-Update führt neben verschiedenen Fehlerbereinigungen die internationale Version von Idana ein.
+### Ihr persönlicher Willkommensbildschirm
 
-### Englische Version mit automatischer Übersetzung
+Ab sofort können Sie in den Einstellungen Ihren eigenen Text und ein Bild oder Logo hinterlegen, das Ihren Patienten zu Beginn des Fragebogens angezeigt wird.
 
-Idana ist nun vollständig auf Englisch verfügbar. Die Sprache der App ist vor dem Login und in den Einstellungen umschaltbar. Lassen Sie Fragebögen auf Englisch beantworten und betrachten Sie den Bericht auf Deutsch!
+### Verbesserte Patienten-App
 
-### DSGVO-Patientenaufklärung
+Wir haben mit dem Feedback unserer Kunden die Benutzerfreundlichkeit für Patienten noch weiter optimiert. Auf Smartphones und PCs kommt automatisch der Scroll-Navigationsmodus zum Einsatz, die reine Button-Navigation wird nur noch auf Tablets für ältere Patienten aktiviert.
 
-Idana enthält nun einen Fragebogen zur Aufklärung der Patienten über die Datenverarbeitung in der Praxis. Der Fragebogen orientiert sich an den Vorgaben der KBV und ist unter "Generelle Module" zu finden.
+### Synergien für die Telemedizin
+
+Im neuen Menüpunkt "Addons" können Sie Erweiterungen für Partnerlösungen freischalten, die Sie mit Idana noch effizienter nutzen können. Unser erstes Modul wurde in Kooperation mit Arztkonsultation.de für die Videosprechstunde entwickelt.
