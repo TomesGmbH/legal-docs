@@ -1,9 +1,9 @@
-## Idana 2.3 released
+## Idana 2.4 released
 
-### Your personal welcome screen
+### Automatic report export to a folder
 
-You can now enter your own text and an image or logo in the settings, which will be displayed to your patients at the beginning of the questionnaire.
+Idana can now automatically save new reports in a folder, both as PDF and structured in JSON format. You can also find these new options in the settings.
 
-### Improved patient app
+### Remember PIN for auto-login
 
-With the feedback from our customers, we have further optimized the user-friendliness for patients. The scroll navigation mode is automatically used on smartphones and PCs, the pure button navigation is only activated on tablets for older patients.
+For your convenience, Idana now offers the option of storing the PIN for data decryption locally. With this feature, you no longer have to enter the PIN every time you start Idana.

@@ -1,13 +1,13 @@
-## Idana 2.3 veröffentlicht
+## Idana 2.4 veröffentlicht
 
-### Ihr persönlicher Willkommensbildschirm
+### Übertragung des Berichts als Text in die Patientenakte
 
-Ab sofort können Sie in den Einstellungen Ihren eigenen Text und ein Bild oder Logo hinterlegen, das Ihren Patienten zu Beginn des Fragebogens angezeigt wird.
+Ab sofort können Sie alternativ oder zusätzlich zur PDF-Datei auch die Antworten direkt als Text an das PVS übertragen. Sie können diese neue Funktion in den GDT-Einstellungen aktivieren.
 
-### Verbesserte Patienten-App
+### Automatischer Berichts-Export in einen Ordner
 
-Wir haben mit dem Feedback unserer Kunden die Benutzerfreundlichkeit für Patienten noch weiter optimiert. Auf Smartphones und PCs kommt automatisch der Scroll-Navigationsmodus zum Einsatz, die reine Button-Navigation wird nur noch auf Tablets für ältere Patienten aktiviert.
+Idana kann nun automatisch neue Berichte in einem Ordner abspeichern, sowohl als PDF als auch strukturiert im JSON-Format. Sie finden diese neuen Optionen ebenfalls in den Einstellungen.
 
-### Synergien für die Telemedizin
+### PIN für Auto-Login merken
 
-Im neuen Menüpunkt "Addons" können Sie Erweiterungen für Partnerlösungen freischalten, die Sie mit Idana noch effizienter nutzen können. Unser erstes Modul wurde in Kooperation mit Arztkonsultation.de für die Videosprechstunde entwickelt.
+Für mehr Benutzerkomfort bietet Idana nun die Möglichkeit, auch die PIN zur Datenentschlüsselung lokal zu speichern. So müssen Sie die PIN nicht mehr bei jedem Start von Idana eingeben. 
