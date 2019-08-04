@@ -1,13 +1,13 @@
-## Idana 2.4 veröffentlicht
+## Idana 2.5 veröffentlicht
 
-### Übertragung des Berichts als Text in die Patientenakte
+### Neue Inhalte für Idana: doppelt so viele Fragebögen wie bisher
 
-Ab sofort können Sie alternativ oder zusätzlich zur PDF-Datei auch die Antworten direkt als Text an das PVS übertragen. Sie können diese neue Funktion in den GDT-Einstellungen aktivieren.
+Inhaltlich hat sich bei Idana einiges getan: Neue Fragebögen zu häufigen Beschwerden wie Kopfschmerzen oder Schlafproblemen oder zur Vorbereitung des Gesundheits-Checkups stehen ab sofort zur Verfügung.
 
-### Automatischer Berichts-Export in einen Ordner
+### Vorschau für Fragebögen
 
-Idana kann nun automatisch neue Berichte in einem Ordner abspeichern, sowohl als PDF als auch strukturiert im JSON-Format. Sie finden diese neuen Optionen ebenfalls in den Einstellungen.
+Eine der meist gewünschten Funktionen ist nun da - die Vorschau für Fragebögen. Über einen Klick auf das Vorschau-Symbol können bei der Fragebogenauswahl die Fragen jedes Fragebogens angezeigt werden. 
 
-### PIN für Auto-Login merken
+### Neues Auswahlmenü für Fragebögen
 
-Für mehr Benutzerkomfort bietet Idana nun die Möglichkeit, auch die PIN zur Datenentschlüsselung lokal zu speichern. So müssen Sie die PIN nicht mehr bei jedem Start von Idana eingeben. 
+Ein neues Auswahlmenü und die Vorschaufunktion erleichtern die Auswahl der richtigen Fragebögen für den Patienten.

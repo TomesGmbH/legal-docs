@@ -1,9 +1,13 @@
-## Idana 2.4 released
+## Idana 2.5 released
 
-### Automatic report export to a folder
+### New content for Idana: twice as many questionnaires as before
 
-Idana can now automatically save new reports in a folder, both as PDF and structured in JSON format. You can also find these new options in the settings.
+Idana has made a lot of progress in terms of content: new questionnaires on common complaints such as headaches or sleep problems or in preparation for the health check-up are now available.
 
-### Remember PIN for auto-login
+### Preview for questionnaires
 
-For your convenience, Idana now offers the option of storing the PIN for data decryption locally. With this feature, you no longer have to enter the PIN every time you start Idana.
+One of the most desired functions is now available - the preview for questionnaires. By clicking on the preview symbol, the questions of each questionnaire can be displayed during questionnaire selection. 
+
+### New selection menu for questionnaires
+
+A new selection menu and the preview function facilitate the selection of the right questionnaires for the patient.
