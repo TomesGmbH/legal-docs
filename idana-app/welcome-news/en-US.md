@@ -1,10 +1,13 @@
-## Idana 2.6 released
+## Idana 2.5 released
 
-### Templates provide for more comfort with sending emails
-Additional text in the email sending dialog can now be configured as mail templates. When sending a survey via e-mail, a text template can now be selected via drop-down.
+### New content for Idana: twice as many questionnaires as before
 
-### E-mails can now be sent again from the queue
-From this version it is also possible to send a new e-mail to the patient from the queue for already configured surveys.
+Idana has made a lot of progress in terms of content: new questionnaires on common complaints such as headaches or sleep problems or in preparation for the health check-up are now available.
 
-### It is now displayed whether the patient has started the survey or not
-The queue now shows if and when the patient has already opened a configured survey and which method has been used.
+### Preview for questionnaires
+
+One of the most desired functions is now available - the preview for questionnaires. By clicking on the preview symbol, the questions of each questionnaire can be displayed during questionnaire selection. 
+
+### New selection menu for questionnaires
+
+A new selection menu and the preview function facilitate the selection of the right questionnaires for the patient.
