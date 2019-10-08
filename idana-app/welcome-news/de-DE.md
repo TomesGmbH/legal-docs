@@ -1,13 +1,10 @@
-## Idana 2.5 veröffentlicht
+## Idana 2.6 veröffentlicht
 
-### Neue Inhalte für Idana: doppelt so viele Fragebögen wie bisher
+### Mailtemplates sorgen für mehr Komfort beim E-Mail-Versand
+Für den Zusatztext beim Email-Versand können nun als Mailtemplates hinterlegt werden. Beim Senden einer Befragung per E-Mail, kann nun per Drop-Down ein Mailtemplate ausgewählt werden.
 
-Inhaltlich hat sich bei Idana einiges getan: Neue Fragebögen zu häufigen Beschwerden wie Kopfschmerzen oder Schlafproblemen oder zur Vorbereitung des Gesundheits-Checkups stehen ab sofort zur Verfügung.
+### E-Mails können nun aus der Warteschlange heraus erneut verschickt werden
+Ab dieser Version ist es auch möglich für bereits konfigurierte Befragungen aus der Warteschlange heraus erneut eine E-Mail an den Patienten zu schicken.
 
-### Vorschau für Fragebögen
-
-Eine der meist gewünschten Funktionen ist nun da - die Vorschau für Fragebögen. Über einen Klick auf das Vorschau-Symbol können bei der Fragebogenauswahl die Fragen jedes Fragebogens angezeigt werden. 
-
-### Neues Auswahlmenü für Fragebögen
-
-Ein neues Auswahlmenü und die Vorschaufunktion erleichtern die Auswahl der richtigen Fragebögen für den Patienten.
+### Es wird nun angezeigt, ob der Patient die Befragung gestartet hat
+In der Warteschlange wird nun angezeigt, ob und wann der Patient eine konfigurierte Befragung bereits geöffnet hat und über welche Methode.
