@@ -1,10 +1,10 @@
-## Idana 2.6 veröffentlicht
+## Idana 2.7 veröffentlicht
 
-### Mailtemplates sorgen für mehr Komfort beim E-Mail-Versand
-Für den Zusatztext beim Email-Versand können nun als Mailtemplates hinterlegt werden. Beim Senden einer Befragung per E-Mail, kann nun per Drop-Down ein Mailtemplate ausgewählt werden.
+### Unterstützung intelligenter Fließtext-Generierung für Dokumentation und Arztbrief
+Über den Idana-Fragebogen-Editor kann nun für jeden Fragebogen eine Fließtext-Vorlage erstellt werden, die es erlaubt aus den Patientenantworten einen Fließtext zu generieren, der für die Dokumentation und Weiterverwendung im Arztbrief verwendet werden kann.
 
-### E-Mails können nun aus der Warteschlange heraus erneut verschickt werden
-Ab dieser Version ist es auch möglich für bereits konfigurierte Befragungen aus der Warteschlange heraus erneut eine E-Mail an den Patienten zu schicken.
+### Analytics-Dashboard zur Anzeige der Idana-Nutzungsstatistik 
+Die Auflistung der Idana-Nutzungsstatistik unter Mein Account wurde durch eine visuelle Anzeige auf der Startseite von Idana ersetzt.
 
-### Es wird nun angezeigt, ob der Patient die Befragung gestartet hat
-In der Warteschlange wird nun angezeigt, ob und wann der Patient eine konfigurierte Befragung bereits geöffnet hat und über welche Methode.
+### Verbesserung der GDT-Einstellungsmöglichkeiten
+In den GDT-Einstellungen kann nun festgelegt werden unter welchem Pfad und Namen die PDF-Dateien beim GDT-Export abgelegt werden und in welcher Form der Text-Bericht übertragen wird. Dadurch wird die Unterstützung weiterer Praxissysteme ermöglicht.

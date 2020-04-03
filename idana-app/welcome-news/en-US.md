@@ -1,10 +1,10 @@
-## Idana 2.6 released
+## Idana 2.7 released
 
-### Templates provide for more comfort with sending emails
-Additional text in the email sending dialog can now be configured as mail templates. When sending a survey via e-mail, a text template can now be selected via drop-down.
+### Support of intelligent natural language text generation for documentation and doctor's letter
+Using the Idana questionnaire editor, a continuous text template can now be created for each questionnaire. This allows a natural language text to be generated from the patient answers, which can be used for documentation and further use in the doctor's letter.
 
-### E-mails can now be sent again from the queue
-From this version it is also possible to send a new e-mail to the patient from the queue for already configured surveys.
+### Analytics dashboard to display Idana usage statistics 
+The listing of Idana usage statistics under My Account has been replaced by a visual display on the Idana start page.
 
-### It is now displayed whether the patient has started the survey or not
-The queue now shows if and when the patient has already opened a configured survey and which method has been used.
+### Improvement of the GDT settings
+In the GDT settings it is now possible to define under which path and name the PDF files are stored during GDT export and in which form the text report is transferred. This enables the support of further practice systems.
