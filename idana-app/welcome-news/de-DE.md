@@ -1,7 +1,7 @@
 ## Idana 2.7 veröffentlicht
 
-### Unterstützung intelligenter Fließtext-Generierung für Dokumentation und Arztbrief
-Über den Idana-Fragebogen-Editor kann nun für jeden Fragebogen eine Fließtext-Vorlage erstellt werden, die es erlaubt aus den Patientenantworten einen Fließtext zu generieren, der für die Dokumentation und Weiterverwendung im Arztbrief verwendet werden kann.
+### Unterstützung intelligenter Fließtext-Generierung
+Nutzer des Idana Fragebogen-Editors können nun für ihre eigenen Fragebögen eine Fließtext-Vorlage erstellen, die es ihnen erlaubt aus den Patientenantworten einen Fließtext zu generieren. Dieser kann für den Arztbrief kopiert oder automatisiert per GDT in die Patientenkartei übertragen werden.
 
 ### Analytics-Dashboard zur Anzeige der Idana-Nutzungsstatistik 
 Die Auflistung der Idana-Nutzungsstatistik unter Mein Account wurde durch eine visuelle Anzeige auf der Startseite von Idana ersetzt.
