@@ -1,8 +1,8 @@
 ## Tomes GmbH
 
 Tomes GmbH  
-Engesserstr. 4a  
-79108 Freiburg i. Br.
+Ellen-Gottlieb-Str. 19
+79106 Freiburg i. Br.
 
 ### Represented by:
 
