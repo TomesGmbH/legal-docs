@@ -1,7 +1,7 @@
 ## Angaben gemäß § 5 TMG:
 
 Tomes GmbH  
-Ellen-Gottlieb-Str. 19
+Ellen-Gottlieb-Str. 19 <br>
 79106 Freiburg i. Br.
 
 ### Vertreten durch:
