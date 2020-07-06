@@ -130,18 +130,34 @@ Gegebenenfalls schicken wir Ihnen eine kurze Nachricht, die der E-Mail-Vorlage z
 
 12.3.  Weder die Tomes GmbH als Anbieter der Idana App noch die Betreiber der beteiligten Rechenzentren können auf unverschlüsselte Patienteninformationen zugreifen. Davon ausgenommen sind die wenigen personenbezogenen Daten, die beim E-Mail-Versand und der Nutzung von Idana Check-In unverschlüsselt übertragen werden, wie oben in Ziffer 10.3 und 10.4 erläutert; Ihre Eintragungen in den Fragebögen sind davon nicht betroffen.
 
-### 13. Speicherung und Löschung
+### 13. Nutzung von reCAPTCHA zur Spam-Prävention beim Idana Check-In
 
-13.1.  Die Speicherung Ihrer verschlüsselten Patienteninformationen erfolgt in den Rechenzentren, die die Tomes GmbH für den Betrieb der Idana App nutzt. Die Verarbeitung findet auf Servern in der Europäischen Union oder dem Europäischen Wirtschaftsraum statt.
+13.1.  Beim Idana Check-In (explizit nicht jedoch beim Ausfüllen eines Fragebogens) kommt die Funktion reCAPTCHA von Google zum Einsatz, siehe https://www.google.com/recaptcha/intro/v3.html
 
-13.2.  Ihre Patienteninformationen werden im Rechenzentrum solange verschlüsselt gespeichert, bis wir sie dort löschen oder unser Kundenkonto für die Idana App bei der Tomes GmbH durch Vertragsbeendigung erlischt. Unabhängig davon werden Ihre Patienteninformationen von uns solange gespeichert, wie wir im Rahmen der gesetzlichen Aufbewahrungsfristen zur Speicherung verpflichtet sind.
+13.2.  Bei reCAPTCHA handelt es sich um ein sogenanntes iframe (inline frame) von Google. Dieses wird als eingebetteter Inhalt so integriert, dass Sie nicht auf den ersten Blick erkennen können, dass die reCAPTCHA-Funktion im Idana Check-In von einem anderen Provider bereitgestellt wird.
 
-### 14. Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Widerspruch und Datenübertragbarkeit
+13.3.  Anbieter ist die Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. reCAPTCHA hilft uns zu unterscheiden, ob eine Eingabe im Idana Check-In von einem Menschen oder vollautomatisch von einer Maschine (insbesondere von einem sog. Bot) vorgenommen wird. Unsere Nutzung von reCAPTCHA erfolgt also zu dem Zweck sicherzustellen, dass über den Idana Check-In nur Menschen mit uns in Kontakt treten und wir nicht Opfer von missbräuchlicher Nutzung werden. Zu diesem Zweck erhebt reCAPTCHA diverse Daten über Sie und Ihr Nutzerverhalten beim Idana Check-In (z.B. Ihre IP-Adresse, im Browser installierte Plug-ins, Spracheinstellung des Browsers, Bildschirm- und Fensterauflösung, Ausführungszeit, Zeitzone, Anzahl der Klick- / Tastatur- / Touch-Aktionen im iframe des Captcha). reCAPTCHA stellt fest, von welcher Webseite aus die Captcha-Funktion aufgerufen wird. Es liest bereits in Ihrem Browser gespeicherte Cookies aus bzw. speichert ein neues, wenn kein reCAPTCHA-Cookie vorhanden ist.
 
-14.1.  Sie haben im Rahmen der gesetzlichen Bestimmungen das Recht, von uns Auskunft über Ihre von uns verarbeiteten personenbezogenen Daten zu erhalten, sowie das Recht auf Berichtigung, Löschung, Einschränkung der Verarbeitung, Widerspruch gegen die Verarbeitung sowie auf Datenübertragbarkeit geltend zu machen. Die genauen Voraussetzungen, unter denen Ihnen die vorgenannten Rechte zustehen, entnehmen Sie bitte den Art. 15 bis 18 und 20 bis 22 DSGVO sowie den §§ 34, 35 und 37 Bundesdatenschutzgesetz (BDSG). Wenn Sie eines oder mehrere der vorstehend genannten Rechte ausüben wollen, wenden Sie sich bitte an eine der in Ziffer 2 angegebenen Stellen.
+13.4.  Die Rechtsgrundlage für unseren Einsatz von reCAPTCHA ist unser berechtigtes Interesse, den Idana Check-In nur für eine Nutzung durch Menschen zur Verfügung zu stellen und uns vor Missbrauch zu schützen (Art. 6 Abs. 1 lit. f DSGVO).
 
-14.2.  Gesondert weisen wir Sie auf Ihr Widerspruchsrecht gemäß Art. 21 DSGVO hin. Danach haben Sie das Recht, aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung Ihrer Daten, die wir aufgrund von Art. 6 Abs. 1 S. 1 lit. f DSGVO (Datenverarbeitung auf der Grundlage einer Interessenabwägung) vornehmen, Widerspruch einzulegen. Dies gilt auch für ein auf diese Bestimmung gestütztes Profiling im Sinne von Art. 4 Nr. 4 DSGVO; wir betreiben allerdings kein Profiling mit Ihren Daten. Legen Sie Widerspruch ein, werden wir Ihre Daten nicht mehr verarbeiten, es sei denn, wir können zwingende, schutzwürdige Gründe für die Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
+13.5.  Weitere Informationen über den Zweck und den Umfang der Datenerhebung und deren Verarbeitung durch Google finden Sie in den Datenschutzerklärungen von Google. Folgende Webseite ist uns in dieser Hinsicht bekannt: https://policies.google.com/privacy?hl=de&gl=de
 
-### 15. Beschwerderecht
+Dort finden Sie auch weitere Informationen zu Ihren diesbezüglichen Rechten und Einstellungen zum Schutz Ihrer Privatsphäre. Google LLC hat sich für das EU-U.S. Privacy Shield (EU-US-Datenschutzschild) zertifiziert, welches die Einhaltung des in der EU geltenden Datenschutzniveaus gewährleistet. Siehe: https://www.privacyshield.gov/list
+
+### 14. Speicherung und Löschung
+
+14.1.  Die Speicherung Ihrer verschlüsselten Patienteninformationen erfolgt in den Rechenzentren, die die Tomes GmbH für den Betrieb der Idana App nutzt. Die Verarbeitung findet auf Servern in der Europäischen Union oder dem Europäischen Wirtschaftsraum statt.
+
+14.2.  Ihre Patienteninformationen werden im Rechenzentrum solange verschlüsselt gespeichert, bis wir sie dort löschen oder unser Kundenkonto für die Idana App bei der Tomes GmbH durch Vertragsbeendigung erlischt. Unabhängig davon werden Ihre Patienteninformationen von uns solange gespeichert, wie wir im Rahmen der gesetzlichen Aufbewahrungsfristen zur Speicherung verpflichtet sind.
+
+14.3.  Wenn Sie über Idana Check-In einen Fragebogen per E-Mail anfordern, um ihn mit der Idana App auf Ihrem eigenen Endgerät auszufüllen, und im Rahmen der Anforderung zustimmen, dass Ihre Patientendaten (Ziffer 9.4) für die zukünftige Verwendung auf Ihrem Endgerät gespeichert werden, werden diese Patientendaten nach einem Jahr gelöscht oder früher, falls Sie Ihre Zustimmung vorher auf Ihrem Endgerät zurücknehmen.
+
+### 15. Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Widerspruch und Datenübertragbarkeit
+
+15.1.  Sie haben im Rahmen der gesetzlichen Bestimmungen das Recht, von uns Auskunft über Ihre von uns verarbeiteten personenbezogenen Daten zu erhalten, sowie das Recht auf Berichtigung, Löschung, Einschränkung der Verarbeitung, Widerspruch gegen die Verarbeitung sowie auf Datenübertragbarkeit geltend zu machen. Die genauen Voraussetzungen, unter denen Ihnen die vorgenannten Rechte zustehen, entnehmen Sie bitte den Art. 15 bis 18 und 20 bis 22 DSGVO sowie den §§ 34, 35 und 37 Bundesdatenschutzgesetz (BDSG). Wenn Sie eines oder mehrere der vorstehend genannten Rechte ausüben wollen, wenden Sie sich bitte an eine der in Ziffer 2 angegebenen Stellen.
+
+15.2.  Gesondert weisen wir Sie auf Ihr Widerspruchsrecht gemäß Art. 21 DSGVO hin. Danach haben Sie das Recht, aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung Ihrer Daten, die wir aufgrund von Art. 6 Abs. 1 S. 1 lit. f DSGVO (Datenverarbeitung auf der Grundlage einer Interessenabwägung) vornehmen, Widerspruch einzulegen. Dies gilt auch für ein auf diese Bestimmung gestütztes Profiling im Sinne von Art. 4 Nr. 4 DSGVO; wir betreiben allerdings kein Profiling mit Ihren Daten. Legen Sie Widerspruch ein, werden wir Ihre Daten nicht mehr verarbeiten, es sei denn, wir können zwingende, schutzwürdige Gründe für die Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
+
+### 16. Beschwerderecht
 
 Sie haben im Rahmen der gesetzlichen Bestimmungen das Recht, sich mit Beschwerden bezüglich des Datenschutzes an eine Aufsichtsbehörde zuwenden.
