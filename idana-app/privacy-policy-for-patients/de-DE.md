@@ -10,9 +10,9 @@ Als Verwender der Idana App, die der Erfassung und Dokumentation von Patientenin
 
 3.1.  Verantwortlicher („Wir") im Sinne der EU-Datenschutzgrundverordnung (DSGVO) ist:
 
-${privacyPolicyInstitution} \
-${privacyPolicyAddress} \
-${privacyPolicyWebsite} \
+${privacyPolicyInstitution}
+${privacyPolicyAddress}
+${privacyPolicyWebsite}
 ${privacyPolicyEmail}
 
 ### 2. Kontaktdaten zum Datenschutz
