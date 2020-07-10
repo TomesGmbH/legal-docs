@@ -6,9 +6,9 @@ Als Verwender der Idana App, die der Erfassung und Dokumentation von Patientenin
 
 1.1. Diese Datenschutzerklärung gilt für die Nutzung der Idana App. Dabei handelt es sich um eine App, mit der medizinische Fragebögen ausgefüllt und Patienteninformationen verarbeitet werden können (nachfolgend \"Idana App\" genannt). Sie können den Fragebogen vor Ort bei uns auf einem Tablet Computer ausfüllen, den wir Ihnen zur Verfügung stellen. Alternativ erhalten Sie von uns per E-Mail den Link zu dem betreffenden Fragebogen, den Sie dann von Ihrem Endgerät (Computer, Smartphone, etc.) aus im Internet-Browser ausfüllen.
 
-2.1.  Alternativ erhalten Sie von uns einen Link oder einen Code aus 6 Zeichen oder einen QR-Code, mit dem Sie einen Fragebogen selbst anfordern können, nachdem Sie Ihre Stammdaten eingegeben haben ("Idana Check-In"). In diesem Fall wird Ihnen nach der Eingabe Ihrer Daten eine E-Mail geschickt, die den Link zum Ausfüllen des Fragebogens enthält. Den Fragebogen füllen Sie dann mit Ihrem Endgerät (Computer, Smartphone, etc.) im Internet-Browser aus.
+1.2.  Alternativ erhalten Sie von uns einen Link oder einen Code aus 6 Zeichen oder einen QR-Code, mit dem Sie einen Fragebogen selbst anfordern können, nachdem Sie Ihre Stammdaten eingegeben haben ("Idana Check-In"). In diesem Fall wird Ihnen nach der Eingabe Ihrer Daten eine E-Mail geschickt, die den Link zum Ausfüllen des Fragebogens enthält. Den Fragebogen füllen Sie dann mit Ihrem Endgerät (Computer, Smartphone, etc.) im Internet-Browser aus.
 
-3.1.  Verantwortlicher („Wir") im Sinne der EU-Datenschutzgrundverordnung (DSGVO) ist:
+1.3.  Verantwortlicher („Wir") im Sinne der EU-Datenschutzgrundverordnung (DSGVO) ist:
 
 ${privacyPolicyInstitution}
 ${privacyPolicyAddress}
@@ -17,7 +17,7 @@ ${privacyPolicyEmail}
 
 ### 2. Kontaktdaten zum Datenschutz
 
-2.1.  Wenn Sie die Ihnen zustehenden datenschutzrechtlichen Rechte geltend machen wollen, Fragen zu dieser Datenschutzerklärung oder unserem Datenschutzverhalten in der Idana App haben, wenden Sie sich bitte an uns. Die Kontaktdaten finden Sie vorstehend in Ziffer 1.2.
+2.1.  Wenn Sie die Ihnen zustehenden datenschutzrechtlichen Rechte geltend machen wollen, Fragen zu dieser Datenschutzerklärung oder unserem Datenschutzverhalten in der Idana App haben, wenden Sie sich bitte an uns. Die Kontaktdaten finden Sie vorstehend in Ziffer 1.3.
 
 2.2.  ${privacyPolicyDataProtectionOfficer}
 
@@ -55,9 +55,9 @@ Für den Fall, dass Sie selbst einen Befragung über Idana Check-In per E-Mail a
 
 9.1.  Wenn Sie die Idana App nutzen, werden verschiedene Patienteninformationen verarbeitet. Dazu gehören
 
--   Stammdaten, die aufgrund unseres Behandlungsvertrages mit der Idana App unbedingt verarbeitet werden müssen (Ziffern 10.2 bis 10.4),
--   biometrische Daten, die beim Erfassen Ihrer Unterschrift auf dem Tablet Computer verarbeitet werden (Ziffer 10.5) und
--   Gesundheitsdaten, genetische Daten oder Daten zu Ihrem Sexualleben oder zu Ihrer sexuellen Orientierung, die Sie während der Nutzung der Idana App nach eigenem Ermessen beim Ausfüllen der Fragebögen eintragen (Ziffer 10.6)
+-   Stammdaten, die aufgrund unseres Behandlungsvertrages mit der Idana App unbedingt verarbeitet werden müssen (Ziffern 9.2 bis 9.4),
+-   biometrische Daten, die beim Erfassen Ihrer Unterschrift auf dem Tablet Computer verarbeitet werden (Ziffer 9.5) und
+-   Gesundheitsdaten, genetische Daten oder Daten zu Ihrem Sexualleben oder zu Ihrer sexuellen Orientierung, die Sie während der Nutzung der Idana App nach eigenem Ermessen beim Ausfüllen der Fragebögen eintragen (Ziffer 9.6)
 
 9.2.  Wenn Sie die Idana App auf dem von uns zur Verfügung gestellten Tablet Computer oder einem eigenen Endgerät bei uns vor Ort nutzen, verarbeiten wir folgende Ihrer Patienteninformationen als Stammdaten:
 
@@ -110,7 +110,7 @@ Gegebenenfalls schicken wir Ihnen eine kurze Nachricht, die der E-Mail-Vorlage z
 -   IP-Adresse
 -   Systemdaten des verwendeten Endgeräts (Gerätekennung, Hersteller, Gerätetyp, Betriebssystem, Betriebssystemversion, Browser, Browserversion)
 
-10.3.  Die in Ziffer 10.5 genannten biometrischen Daten, die beim Unterschreiben erhoben werden, verarbeiten wir zusammen mit den in Ziffer 11.2 aufgeführten Systemdaten zum Zweck der eindeutigen Zuordnung der Unterschrift zu Ihnen als Person und Unterzeichnenden.
+10.3.  Die in Ziffer 9.5 genannten biometrischen Daten, die beim Unterschreiben erhoben werden, verarbeiten wir zusammen mit den in Ziffer 10.2 aufgeführten Systemdaten zum Zweck der eindeutigen Zuordnung der Unterschrift zu Ihnen als Person und Unterzeichnenden.
 
 ### 11. Rechtsgrundlagen für die Verarbeitung Ihrer Daten
 
@@ -118,7 +118,7 @@ Gegebenenfalls schicken wir Ihnen eine kurze Nachricht, die der E-Mail-Vorlage z
 
 11.2.  Rechtsgrundlage der Verarbeitung Ihrer Stammdaten (Name, E-Mail-Adresse, etc.) für die Anforderung einer Befragung per E-Mail über Idana Check-In ist Ihre ausdrückliche Einwilligung gemäß Art. 9 Abs. 2 lit. a DSGVO.
 
-11.3.  Die Rechtsgrundlage für die automatische Erfassung und Verarbeitung der Systemdaten des Endgerätes (Ziffer 11.2) ist unser berechtigtes Interesse, das in der Absicherung der beteiligten Systeme und der rechtlichen Verfolgung bei Missbrauch der Idana App besteht (Art. 6 Abs. 1 lit. f DSGVO).
+11.3.  Die Rechtsgrundlage für die automatische Erfassung und Verarbeitung der Systemdaten des Endgerätes (Ziffer 10.2) ist unser berechtigtes Interesse, das in der Absicherung der beteiligten Systeme und der rechtlichen Verfolgung bei Missbrauch der Idana App besteht (Art. 6 Abs. 1 lit. f DSGVO).
 
 11.4.  Rechtsgrundlage der Verarbeitung Ihrer biometrischen Daten sowie Ihrer Gesundheitsdaten, genetischen Daten oder Daten zu Ihrem Sexualleben oder zu Ihrer sexuellen Orientierung ist die Gesundheitsvorsorge sowie die Diagnostik, Versorgung und Behandlung gemäß Art. 9 Abs. 2 lit. h DSGVO in Verbindung mit § 22 Abs. 1 Nr. 1 lit. b BDSG.
 
@@ -128,7 +128,7 @@ Gegebenenfalls schicken wir Ihnen eine kurze Nachricht, die der E-Mail-Vorlage z
 
 12.2.  Unabhängig von der vorstehenden Regelung in Ziffer 13.1 beauftragten wir verschiedene Dienstleister damit, uns bei der Bereitstellung, dem Betrieb und der Wartung unserer IT-Systeme und der Idana App zu unterstützen. Dazu gehört der Anbieter der Idana App, die Tomes GmbH ([idana.com](http://www.idana.com/)), der uns die Softwarekomponenten der Idana App überlässt und Support-Leistungen erbringt und die Funktionen der Idana Web App in Form von Software-as-a-Service bereitstellt. Wenn solche Dienstleister im Auftrag für uns tätig werden, kann es vorkommen, dass diese als Empfänger Zugriff auf Ihre personenbezogenen Daten erhalten. Diese Dienstleister sind dann jedoch über eine sog. Auftragsverarbeitungsvereinbarung vertraglich ebenfalls zur Einhaltung des Datenschutzes verpflichtet; die gesetzlichen Bestimmungen zum Datenschutz einschließlich einer Geheimhaltungspflicht gelten ohnehin auch für unsere Dienstleister.
 
-12.3.  Weder die Tomes GmbH als Anbieter der Idana App noch die Betreiber der beteiligten Rechenzentren können auf unverschlüsselte Patienteninformationen zugreifen. Davon ausgenommen sind die wenigen personenbezogenen Daten, die beim E-Mail-Versand und der Nutzung von Idana Check-In unverschlüsselt übertragen werden, wie oben in Ziffer 10.3 und 10.4 erläutert; Ihre Eintragungen in den Fragebögen sind davon nicht betroffen.
+12.3.  Weder die Tomes GmbH als Anbieter der Idana App noch die Betreiber der beteiligten Rechenzentren können auf unverschlüsselte Patienteninformationen zugreifen. Davon ausgenommen sind die wenigen personenbezogenen Daten, die beim E-Mail-Versand und der Nutzung von Idana Check-In unverschlüsselt übertragen werden, wie oben in Ziffer 9.3 und 9.4 erläutert; Ihre Eintragungen in den Fragebögen sind davon nicht betroffen.
 
 ### 13. Nutzung von reCAPTCHA zur Spam-Prävention beim Idana Check-In
 
