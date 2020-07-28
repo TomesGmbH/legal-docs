@@ -12,7 +12,7 @@ Dr. Lucas Spohn
 ### Kontakt:
 
 Telefon: +49 761 6006784-0  
-E-Mail: kontakt@idana.one
+E-Mail: kontakt@idana.com
 
 ### Registereintrag:
 

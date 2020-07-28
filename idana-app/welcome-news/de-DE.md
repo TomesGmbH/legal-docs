@@ -1,10 +1,6 @@
-## Idana 2.7 veröffentlicht
+## Idana v3.0 veröffentlicht
 
-### Unterstützung intelligenter Fließtext-Generierung
-Nutzer des Idana Fragebogen-Editors können nun für ihre eigenen Fragebögen eine Fließtext-Vorlage erstellen, die es ihnen erlaubt aus den Patientenantworten einen Fließtext zu generieren. Dieser kann für den Arztbrief kopiert oder automatisiert per GDT in die Patientenkartei übertragen werden.
+### Der Idana Check-In – digitale Patientenaufnahme neu definiert
+Der Idana Check-In bietet Praxen und Kliniken ab sofort die Möglichkeit, Codes und entsprechende Links zu erzeugen, über die Patienten selbst eine E-Mail-Befragung mit vorher festgelegten Fragebögen anfordern können. Die Codes können z.B. am Telefon durchgegeben und auf idana.app eingegeben werden. Die Links können z.B. auf der eigenen Website oder im Online-Terminplanungssystem hinterlegt werden.
 
-### Analytics-Dashboard zur Anzeige der Idana-Nutzungsstatistik 
-Die Auflistung der Idana-Nutzungsstatistik unter Mein Account wurde durch eine visuelle Anzeige auf der Startseite von Idana ersetzt.
-
-### Verbesserung der GDT-Einstellungsmöglichkeiten
-In den GDT-Einstellungen kann nun festgelegt werden unter welchem Pfad und Namen die PDF-Dateien beim GDT-Export abgelegt werden und in welcher Form der Text-Bericht übertragen wird. Dadurch wird die Unterstützung weiterer Praxissysteme ermöglicht.
+Hier beschreibt einer unserer Kunden, wie er den Check-In effektiv mit seiner Online-Terminvergabe integrieren konnte: [Zum Beitrag](https://idana.com/anwender-video-integration-von-idana-in-die-praxissoftware-tomedo-und-der-nutzen-im-umgang-mit-der-corona-pandemie/)
