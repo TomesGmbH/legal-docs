@@ -1,10 +1,8 @@
-## Idana 2.7 released
+## Idana v3.0 released
 
-### Support of intelligent natural language text generation for documentation and doctor's letter
-Using the Idana questionnaire editor, a continuous text template can now be created for each questionnaire. This allows a natural language text to be generated from the patient answers, which can be used for documentation and further use in the doctor's letter.
+### The Idana Check-In - digital patient admission redefined
+Idana Check-In now offers practices and clinics the possibility of generating codes and corresponding links through which patients themselves can request an e-mail survey with pre-defined questionnaires. The codes can, for example, be given over the telephone and entered on idana.app. The links can, for example, be stored on the patient's own website or in the online appointment planning system.
 
-### Analytics dashboard to display Idana usage statistics 
-The listing of Idana usage statistics under My Account has been replaced by a visual display on the Idana start page.
+Here one of our customers describes how he was able to effectively integrate check-in with his online appointment scheduling system: [To the article](https://idana.com/anwender-video-integration-von-idana-in-die-praxissoftware-tomedo-und-der-nutzen-im-umgang-mit-der-corona-pandemie/) (German)
 
-### Improvement of the GDT settings
-In the GDT settings it is now possible to define under which path and name the PDF files are stored during GDT export and in which form the text report is transferred. This enables the support of further practice systems.
+[Please use our PDF instructions](https://idana.com/Idana-Check-In-Anleitung.pdf) (German) to set up the Idana Check-In for your practice.
