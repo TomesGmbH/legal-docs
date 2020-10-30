@@ -1,8 +1,15 @@
-## Idana v3.0 released
+## Idana v3.1 released
 
-### The Idana Check-In - digital patient admission redefined
-Idana Check-In now offers practices and clinics the possibility of generating codes and corresponding links through which patients themselves can request an e-mail survey with pre-defined questionnaires. The codes can, for example, be given over the telephone and entered on idana.app. The links can, for example, be stored on the patient's own website or in the online appointment planning system.
+### Idana now stores the biometric signature in PDF reports 
+Idana captures an electronic signature at the end of each survey, depending on the hardware also with biometric identification features (a so-called "biometric signature"). In this way, the voluntary electronic form is fulfilled, which is sufficient for many applications in practice.
 
-Here one of our customers describes how he was able to effectively integrate check-in with his online appointment scheduling system: [To the article](https://idana.com/anwender-video-integration-von-idana-in-die-praxissoftware-tomedo-und-der-nutzen-im-umgang-mit-der-corona-pandemie/) (German)
+In our blog you will find a series of articles about legally compliant signing of practice forms with Idana: [Open the series of articles](https://idana.com/beitragsreihe-arztrecht-praxisformulare-rechtssicher-mit-idana-unterschreiben-lassen/)
 
-[Please use our PDF instructions](https://idana.com/Idana-Check-In-Anleitung.pdf) (German) to set up the Idana Check-In for your practice.
+### Idana now shows your practice address in the reports
+Idana now shows your practice name, address and optionally the website in the reports. Please add this information under ***My Account -> Practice Stamp & Privacy*** so that your reports contain the correct information.
+
+### Highly optimized email template
+The email template for sending survey emails from Idana has been greatly optimized for more reliable delivery and response to surveys. Please note the following points:
+* The new central e-mail template already contains a greeting in the name of your practice/institution.
+* The note is no longer displayed at the beginning of the e-mail, but after the button "Fill in online forms".
+* We recommend that you remove salutations and greeting formulas from your mail templates so that the composed e-mail appears natural.
