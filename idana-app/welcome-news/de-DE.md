@@ -6,7 +6,7 @@ Idana erfasst am Ende jeder Befragung eine elektronische Signatur, je nach Hardw
 In unserem Blog finden Sie eine Beitragsreihe zum rechtssicheren Unterschreiben von Praxisformularen mit Idana: [Zur Beitragreihe](https://idana.com/beitragsreihe-arztrecht-praxisformulare-rechtssicher-mit-idana-unterschreiben-lassen/)
 
 ### Idana zeigt nun Ihre Praxisadresse in den Berichten an
-Idana zeigt nun Ihre Praxisnamen, die Adresse und optional die Webseite in den Berichten an. Bitte tragen Sie diese Informationen unter ***Mein Account -> Praxisstempel & Datenschutz*** nach, damit Ihre Berichte die korrekten Informationen enthalten.
+Idana zeigt nun Ihren Praxisnamen, die Adresse und optional die Webseite in den Berichten an. Bitte tragen Sie diese Informationen unter ***Mein Account -> Praxisstempel & Datenschutz*** nach, damit Ihre Berichte die korrekten Informationen enthalten.
 
 ### Stark optimiertes E-Mail-Template
 Das E-Mail-Template zum Versenden von Befragungsmails aus Idana wurde für eine zuverlässigere Zustellung und Beantwortung von Befragungen stark optimiert. Bitte beachten Sie folgende Punkte:
