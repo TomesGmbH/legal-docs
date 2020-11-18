@@ -1,15 +1,15 @@
-## Idana v3.1 veröffentlicht
+## Neue und aktualisierte Fragebögen 
 
-### Idana speichert nun die biometrische Signatur in PDF-Berichten 
-Idana erfasst am Ende jeder Befragung eine elektronische Signatur, je nach Hardware auch mit biometrischen Identifikationsmerkmalen (eine sogenannte “biometrische Signatur). So wird die gewillkürte elektronische Form erfüllt, die für viele Anwendungen in der Praxis ausreicht.
+### Aktualisierter Covid-19 Risikofragebogen
+Der Fragebogen legt nun besonderes Augenmerk auf die aktuellen [nationalen Testkriterien des RKI](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Massnahmen_Verdachtsfall_Infografik_DINA3.pdf;jsessionid=EA2AE671AB48C3A3A75B1A3DB64565D9.internet101?__blob=publicationFile) und gibt diese als Combo-Red-Flags aus.
 
-In unserem Blog finden Sie eine Beitragsreihe zum rechtssicheren Unterschreiben von Praxisformularen mit Idana: [Zur Beitragreihe](https://idana.com/beitragsreihe-arztrecht-praxisformulare-rechtssicher-mit-idana-unterschreiben-lassen/)
+### Neu für Corona: „Bin ich Kontaktperson?“
+Kontaktpersonenmanagement: Mit nur wenigen Fragen erfahren Patienten, ob sie als Kontaktperson der Kategorie 1, 2 oder 3 zu werten sind.
 
-### Idana zeigt nun Ihre Praxisadresse in den Berichten an
-Idana zeigt nun Ihren Praxisnamen, die Adresse und optional die Webseite in den Berichten an. Bitte tragen Sie diese Informationen unter ***Mein Account -> Praxisstempel & Datenschutz*** nach, damit Ihre Berichte die korrekten Informationen enthalten.
+### Neu für D-Ärzte: Fragebogen zur Unfallmeldung
+Mit dem Fragebogen zur ärztlichen Unfallmeldung bei Arbeitsunfällen erheben Sie alle wichtigen Informationen, die zur Unfallmeldung nach DGUV für das Formular F 1050 0117 benötigt werden.
 
-### Stark optimiertes E-Mail-Template
-Das E-Mail-Template zum Versenden von Befragungsmails aus Idana wurde für eine zuverlässigere Zustellung und Beantwortung von Befragungen stark optimiert. Bitte beachten Sie folgende Punkte:
-* Die neue zentrale E-Mail-Vorlage enthält bereits eine Grußformel im Namen Ihrer Praxis/Institution.
-* Die Notiz wird nicht mehr zu Beginn der E-Mail angezeigt, sondern nach dem Button “Online-Formulare ausfüllen”.
-* Wir empfehlen, Anreden und Grußformeln aus Ihren Mailvorlagen zu entfernen, damit die komponierte E-Mail natürlich erscheint.
+## Idana v3.1 veröffentlicht 
+* Idana speichert nun die [biometrische Signatur](https://idana.com/beitragsreihe-arztrecht-praxisformulare-rechtssicher-mit-idana-unterschreiben-lassen/) in PDF-Berichten
+* Idana zeigt jetzt Ihre Praxisadresse in den Berichten an. Unter ***Mein Account -> Praxisstempel & Datenschutz*** anpassen!
+* Stark optimiertes E-Mail-Template für eine zuverlässigere Zustellung
