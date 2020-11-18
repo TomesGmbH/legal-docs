@@ -10,6 +10,6 @@ Kontaktpersonenmanagement: Mit nur wenigen Fragen erfahren Patienten, ob sie als
 Mit dem Fragebogen zur ärztlichen Unfallmeldung bei Arbeitsunfällen erheben Sie alle wichtigen Informationen, die zur Unfallmeldung nach DGUV für das Formular F 1050 0117 benötigt werden.
 
 ## Idana v3.1 veröffentlicht 
-* Idana speichert nun die[biometrische Signatur](https://idana.com/beitragsreihe-arztrecht-praxisformulare-rechtssicher-mit-idana-unterschreiben-lassen/) in PDF-Berichten
+* Idana speichert nun die [biometrische Signatur](https://idana.com/beitragsreihe-arztrecht-praxisformulare-rechtssicher-mit-idana-unterschreiben-lassen/) in PDF-Berichten
 * Idana zeigt jetzt Ihre Praxisadresse in den Berichten an. Unter ***Mein Account -> Praxisstempel & Datenschutz*** anpassen!
 * Stark optimiertes E-Mail-Template für eine zuverlässigere Zustellung
