@@ -6,7 +6,8 @@ deploy:
   provider: gcs
   key_file: assets-account-credentials.json
   bucket: static-idana-assets
+  upload-dir: legal-docs
   acl: public-read
   cleanup: true
   edge: true
-
+  
