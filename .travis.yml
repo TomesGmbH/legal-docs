@@ -1,7 +1,7 @@
 language: node_js
 before_install:
-  - openssl aes-256-cbc -K $encrypted_1c6026f033c2_key -iv $encrypted_1c6026f033c2_iv
-    -in assets-account-credentials.json.enc -out assets-account-credentials.json -d
+- openssl aes-256-cbc -K $encrypted_1c6026f033c2_key -iv $encrypted_1c6026f033c2_iv
+  -in assets-account-credentials.json.enc -out assets-account-credentials.json -d
 deploy:
   provider: gcs
   key_file: assets-account-credentials.json
@@ -10,4 +10,3 @@ deploy:
   acl: public-read
   cleanup: true
   edge: true
-  
