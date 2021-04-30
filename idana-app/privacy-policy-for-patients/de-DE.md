@@ -6,7 +6,7 @@ Als Verwender der Idana App, die der Erfassung und Dokumentation von Patientenin
 
 1.1. Diese Datenschutzerklärung gilt für die Nutzung der Idana App. Dabei handelt es sich um eine App, mit der medizinische Fragebögen ausgefüllt und Patienteninformationen verarbeitet werden können (nachfolgend \"Idana App\" genannt). Sie können den Fragebogen vor Ort bei uns auf einem Tablet Computer ausfüllen, den wir Ihnen zur Verfügung stellen. Alternativ erhalten Sie von uns per E-Mail den Link zu dem betreffenden Fragebogen, den Sie dann von Ihrem Endgerät (Computer, Smartphone, etc.) aus im Internet-Browser ausfüllen.
 
-1.2.  Alternativ erhalten Sie von uns einen Link oder einen Code aus 6 Zeichen oder einen QR-Code, mit dem Sie einen Fragebogen selbst anfordern können, nachdem Sie Ihre Stammdaten eingegeben haben ("Idana Check-In"). In diesem Fall wird Ihnen nach der Eingabe Ihrer Daten eine E-Mail geschickt, die den Link zum Ausfüllen des Fragebogens enthält. Den Fragebogen füllen Sie dann mit Ihrem Endgerät (Computer, Smartphone, etc.) im Internet-Browser aus.
+1.2.  Alternativ erhalten Sie von uns einen Link oder einen Code aus 6 Zeichen oder einen QR-Code, mit dem Sie einen Fragebogen selbst anfordern können, nachdem Sie Ihre Stammdaten eingegeben haben ("Idana Check-In"). In diesem Fall wird Ihnen nach der Eingabe Ihrer Daten - je nach unserer Konfiguration - eine E-Mail geschickt, die den Link zum Ausfüllen des Fragebogens enthält, oder der Fragebogen eröffnet sich direkt im Anschluss im Internet-Browser. Den Fragebogen füllen Sie dann mit Ihrem Endgerät (Computer, Smartphone, etc.) im Internet-Browser aus.
 
 1.3.  Verantwortlicher („Wir") im Sinne der EU-Datenschutzgrundverordnung (DSGVO) ist:
 
@@ -43,7 +43,7 @@ Für die Nutzung der Idana App ist die Bereitstellung Ihrer Patienteninformation
 
 ### 7. Einwilligung bei Idana Check-In
 
-Für den Fall, dass Sie selbst einen Befragung über Idana Check-In per E-Mail anfordern, holen wir für die Verarbeitung und den E-Mail-Versand Ihre ausdrückliche Einwilligung ein. Die Erteilung der Einwilligung erfolgt vor dem Versand Ihrer Stammdaten zur Anforderung des Fragebogens. Ohne Ihre Einwilligung in die Verarbeitung können wir Ihnen die Dienste von Idana Check-In nicht bereitstellen. Die Einwilligung für den Idana Check-In bezieht sich nur auf den einmaligen Versand des Fragebogens. Sie müssen die Einwilligung für weitere Fragebogen-Anforderungen erneut erteilen. Aus diesem Grund ist kein Widerruf Ihrer Einwilligung für die Verarbeitung im Idana Check-In notwendig.
+Für den Fall, dass Sie selbst einen Befragung über Idana Check-In anfordern, holen wir für die Verarbeitung und ggf. den E-Mail-Versand Ihre ausdrückliche Einwilligung ein. Die Erteilung der Einwilligung erfolgt vor dem Versand Ihrer Stammdaten zur Anforderung des Fragebogens. Ohne Ihre Einwilligung in die Verarbeitung können wir Ihnen die Dienste von Idana Check-In nicht bereitstellen. Die Einwilligung für den Idana Check-In bezieht sich nur auf die einmalige Bereitstellung des Fragebogens und ggf. den Versand per E-Mail. Sie müssen die Einwilligung für weitere Fragebogen-Anforderungen erneut erteilen. Aus diesem Grund ist kein Widerruf Ihrer Einwilligung für die Verarbeitung im Idana Check-In notwendig.
 
 ### 8.  Widerruf Ihrer Einwilligung
 
@@ -116,7 +116,7 @@ Gegebenenfalls schicken wir Ihnen eine kurze Nachricht, die der E-Mail-Vorlage z
 
 11.1.  Ihre Stammdaten (Name, Patienten-ID, etc.) verarbeiten wir gemäß Art. 9 Abs. 1 lit. h DSGVO in Verbindung mit § 22 Abs. 1 Nr. 1 lit. b BDSG zur Erfüllung des mit Ihnen abgeschlossenen Behandlungsvertrages.
 
-11.2.  Rechtsgrundlage der Verarbeitung Ihrer Stammdaten (Name, E-Mail-Adresse, etc.) für die Anforderung einer Befragung per E-Mail über Idana Check-In ist Ihre ausdrückliche Einwilligung gemäß Art. 9 Abs. 2 lit. a DSGVO.
+11.2.  Rechtsgrundlage der Verarbeitung Ihrer Stammdaten (Name, E-Mail-Adresse, etc.) für die Anforderung einer Befragung über Idana Check-In ist Ihre ausdrückliche Einwilligung gemäß Art. 9 Abs. 2 lit. a DSGVO.
 
 11.3.  Die Rechtsgrundlage für die automatische Erfassung und Verarbeitung der Systemdaten des Endgerätes (Ziffer 10.2) ist unser berechtigtes Interesse, das in der Absicherung der beteiligten Systeme und der rechtlichen Verfolgung bei Missbrauch der Idana App besteht (Art. 6 Abs. 1 lit. f DSGVO).
 
@@ -136,7 +136,7 @@ Gegebenenfalls schicken wir Ihnen eine kurze Nachricht, die der E-Mail-Vorlage z
 
 13.2.  Ihre Patienteninformationen werden im Rechenzentrum solange verschlüsselt gespeichert, bis wir sie dort löschen oder unser Kundenkonto für die Idana App bei der Tomes GmbH durch Vertragsbeendigung erlischt. Unabhängig davon werden Ihre Patienteninformationen von uns solange gespeichert, wie wir im Rahmen der gesetzlichen Aufbewahrungsfristen zur Speicherung verpflichtet sind.
 
-13.3.  Wenn Sie über Idana Check-In einen Fragebogen per E-Mail anfordern, um ihn mit der Idana App auf Ihrem eigenen Endgerät auszufüllen, und im Rahmen der Anforderung zustimmen, dass Ihre Stammdaten (Ziffer 9.4) für die zukünftige Verwendung auf Ihrem Endgerät gespeichert werden, werden diese Stammdaten gelöscht, wenn Sie den Idana Check-In erneut aufrufen und das Laden der gespeicherten Daten ablehnen.
+13.3.  Wenn Sie über Idana Check-In einen Fragebogen anfordern, um ihn mit der Idana App auf Ihrem eigenen Endgerät auszufüllen, und im Rahmen der Anforderung zustimmen, dass Ihre Stammdaten (Ziffer 9.4) für die zukünftige Verwendung auf Ihrem Endgerät gespeichert werden, werden diese Stammdaten gelöscht, wenn Sie den Idana Check-In erneut aufrufen und das Laden der gespeicherten Daten ablehnen.
 
 ### 14. Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Widerspruch und Datenübertragbarkeit
 
