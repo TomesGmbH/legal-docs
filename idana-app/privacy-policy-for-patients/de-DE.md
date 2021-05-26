@@ -29,7 +29,7 @@ ${privacyPolicyEmail}
 
 ### 4. Sicherheit der Patienteninformationen
 
-Die von Ihnen in der Idana App eingegebenen Patienteninformationen werden mehrstufig verschlüsselt und sind nur Personen bei uns zugänglich, die als Behandler autorisiert sind, mit Ihren Patienteninformationen zu arbeiten. Weder der Anbieter der Idana App, die Tomes GmbH ([idana.com](http://www.idana.com/)) noch die Betreiber der von ihr beauftragten Rechenzentren verfügen über einen Zugriff auf Schlüssel oder unverschlüsselte Patienteninformationen. Davon ausgenommen sind die wenigen personenbezogenen Daten, die beim E-Mail-Versand unverschlüsselt übertragen werden, wie nachfolgend in Ziffer 10.3 und 10.4 erläutert; Ihre Eintragungen in den Fragebögen sind davon nicht betroffen.
+Die von Ihnen in der Idana App eingegebenen Patienteninformationen werden mehrstufig verschlüsselt und sind nur Personen bei uns zugänglich, die als Behandler autorisiert sind, mit Ihren Patienteninformationen zu arbeiten. Weder der Anbieter der Idana App, die Tomes GmbH ([idana.com](http://www.idana.com/)) noch die Betreiber der von ihr beauftragten Rechenzentren verfügen über einen Zugriff auf Schlüssel oder unverschlüsselte Patienteninformationen. Davon ausgenommen sind die wenigen personenbezogenen Daten, die beim E-Mail-Versand unverschlüsselt übertragen werden, wie nachfolgend in Ziffer 9.3 und 9.4 erläutert; Ihre Eintragungen in den Fragebögen sind davon nicht betroffen.
 
 ### 5. Bereitstellung Ihrer Daten
 
